@@ -1,0 +1,665 @@
+<svg height="500" inkscape:export-xdpi="96" inkscape:export-ydpi="96" style="fill:none;stroke:none;" version="1.1" viewBox="0 0 750 500" width="750" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Wifi/Lock</title>
+    <defs/>
+    <sodipodi:namedview bordercolor="#666666" borderlayer="true" inkscape:document-units="px" inkscape:pagecheckerboard="true" pagecolor="#ffffff"/>
+    <metadata>
+        <rdf:RDF>
+            <cc:Work>
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type rdf:resource="http://purl.org/dc/dcmitype/MovingImage"/>
+                <dc:title>Wifi/Lock</dc:title>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <g id="Composition_2db661b8cb614fb0b486a12a137e1748" inkscape:groupmode="layer" inkscape:label="Wifi/Lock">
+        <g id="Layer_3fde358cd949459488c6ff050174cf6a" inkscape:groupmode="layer" inkscape:label="Outlines/Lock Outlines" opacity="1" transform="matrix(1, 0, 0, 1, 0, 0)">
+            <g id="Stroke_fc30b5f1cb804149a8bd6652aabcedf7" inkscape:label="Group 21" opacity="1" stroke="#f5c4c4" stroke-opacity="1" stroke-width="1" transform="matrix(1, 0, 0, 1, 363.5, 223.5)">
+                <path d="M 156.665,0 C 156.665,83.973 86.523,152.046 0,152.046 -86.524,152.046 -156.665,83.973 -156.665,0 -156.665,-83.973 -86.524,-152.046 0,-152.046 86.523,-152.046 156.665,-83.973 156.665,0 Z" sodipodi:nodetypes="cccc" style="fill:none;stroke-dasharray:none;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;"/>
+            </g>
+            <g fill="#3b0202" fill-opacity="1" id="Fill_ff3da425f24e47de94ccc83b7e39793a" inkscape:label="Group 20" opacity="1" transform="matrix(1, 0, 0, 1, 435.621, 88.132)">
+                <path d="M 3,0 C 3,1.657 1.657,3 0,3 -1.656,3 -3,1.657 -3,0 -3,-1.657 -1.656,-3 0,-3 1.657,-3 3,-1.657 3,0 Z" sodipodi:nodetypes="cccc" style="stroke:none;"/>
+            </g>
+            <g fill="#3b0202" fill-opacity="1" id="Fill_5e751571a345470ca2049939c3dc8ff0" inkscape:label="Group 19" opacity="1" transform="matrix(1, 0, 0, 1, 298.841, 85.132)">
+                <path d="M 3,0 C 3,1.657 1.657,3 0,3 -1.657,3 -3,1.657 -3,0 -3,-1.657 -1.657,-3 0,-3 1.657,-3 3,-1.657 3,0 Z" sodipodi:nodetypes="cccc" style="stroke:none;"/>
+            </g>
+            <g transform="translate(287 140)">
+                <g transform="rotate(0)">
+                    <g transform="scale(1 1)">
+                        <g transform="translate(0 0)">
+                            <g fill="#3b0202" fill-opacity="1" id="Fill_55aa7d0f14d9425bb38f76cc9ed2ca1b" inkscape:label="Group 18" opacity="1">
+                                <path d="M 2.885,0 C 2.885,1.593 1.593,2.884 0.001,2.884 -1.592,2.884 -2.885,1.593 -2.885,0 -2.885,-1.593 -1.592,-2.884 0.001,-2.884 1.593,-2.884 2.885,-1.593 2.885,0 Z" sodipodi:nodetypes="cccc" style="stroke:none;"/>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <animateMotion attributeName="transform" begin="0.000000" calcMode="spline" dur="3.000000" keySplines="0 0 1 1; 0.167000 0.167000 0.833000 0.833000; 0.167000 0.167000 0.833000 0.833000" keyTimes="0; 0.173333; 0.333333; 0.506667" path="M 287,140 C 287,128.167 301.5,80.833 287,69 272.5,57.167 214.5,69 200,69" repeatCount="indefinite" values="; ; ; "/>
+            </g>
+            <g transform="translate(456.358 148.827)">
+                <g transform="rotate(0)">
+                    <g transform="scale(1 1)">
+                        <g transform="translate(0 0)">
+                            <g fill="#3b0202" fill-opacity="1" id="Fill_9836aa05be4844659e65c845c1c8ec93" inkscape:label="Group 17" opacity="1">
+                                <path d="M 3,0 C 3,1.657 1.657,3 0,3 -1.657,3 -3,1.657 -3,0 -3,-1.657 -1.657,-3 0,-3 1.657,-3 3,-1.657 3,0 Z" sodipodi:nodetypes="cccc" style="stroke:none;"/>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <animateMotion attributeName="transform" begin="0.000000" calcMode="spline" dur="3.000000" keySplines="0 0 1 1; 0.167000 0.167000 0.833000 0.833000; 0.167000 0.167000 0.833000 0.833000" keyTimes="0; 0.173333; 0.333333; 0.506667" path="M 456.358,148.827 C 465.848,143.514 432.29,96.273 456,83 481.278,68.849 563.883,88.633 574,82.969" repeatCount="indefinite" values="; ; ; "/>
+            </g>
+            <g id="Stroke_0978d1394782405589c9c51963a2f163" inkscape:label="Group 16" opacity="1" stroke="#f5c4c4" stroke-opacity="1" stroke-width="1" transform="matrix(1, 0, 0, 1, 0, 0)">
+                <path d="M 571.04,223.523 C 571.04,223.523 570.04,223.523 570.04,223.523" sodipodi:nodetypes="cc" style="fill:none;stroke-dasharray:none;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;"/>
+            </g>
+            <g id="Stroke_c29f3ed29cce4acc8f2b4f6f49b6e904" inkscape:label="Group 15" opacity="1" stroke="#f5c4c4" stroke-opacity="1" stroke-width="1" transform="matrix(1, 0, 0, 1, 0, 0)">
+                <path d="M 568.042,223.523 C 568.042,223.523 149.509,223.523 149.509,223.523" sodipodi:nodetypes="cc" style="fill:none;stroke-dasharray:none;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;"/>
+            </g>
+            <g id="Stroke_27d5e48e35f64905ab784e1e1799614e" inkscape:label="Group 14" opacity="1" stroke="#f5c4c4" stroke-opacity="1" stroke-width="1" transform="matrix(1, 0, 0, 1, 0, 0)">
+                <path d="M 148.51,223.523 C 148.51,223.523 147.51,223.523 147.51,223.523" sodipodi:nodetypes="cc" style="fill:none;stroke-dasharray:none;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;"/>
+            </g>
+            <g transform="translate(573.767 223.582)">
+                <g transform="rotate(0)">
+                    <g transform="scale(1 1)">
+                        <g transform="translate(0 0)">
+                            <g fill="#3b0202" fill-opacity="1" id="Fill_859568c1a4774b39bc7df7443c495797" inkscape:label="Group 13" opacity="1">
+                                <path d="M -2.885,0 C -2.885,1.593 -1.594,2.884 -0.001,2.884 1.593,2.884 2.884,1.593 2.884,0 2.884,-1.593 1.593,-2.884 -0.001,-2.884 -1.594,-2.884 -2.885,-1.593 -2.885,0 Z" sodipodi:nodetypes="cccc" style="stroke:none;"/>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <animateMotion attributeName="transform" begin="0.000000" calcMode="spline" dur="3.000000" keySplines="0 0 1 1; 0.167000 0.167000 0.833000 0.833000" keyTimes="0; 0.173333; 0.506667" path="M 573.767,223.582 C 502.767,223.582 218.767,223.582 147.767,223.582" repeatCount="indefinite" values="; ; "/>
+            </g>
+            <g id="Stroke_9ac5b99f28964c96892992179b01958f" inkscape:label="Group 12" opacity="1" stroke="#f5c4c4" stroke-opacity="1" stroke-width="1" transform="matrix(1, 0, 0, 1, 0, 0)">
+                <path d="M 287.667,68.333 C 287.667,68.333 287.667,69.333 287.667,69.333" sodipodi:nodetypes="cc" style="fill:none;stroke-dasharray:none;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;"/>
+            </g>
+            <g id="Stroke_e6002a8b3bd9495c9d50f5b592d6f9da" inkscape:label="Group 11" opacity="1" stroke="#f5c4c4" stroke-opacity="1" stroke-width="1" transform="matrix(1, 0, 0, 1, 0, 0)">
+                <path d="M 287.667,71.279 C 287.667,71.279 287.667,128.693 287.667,128.693" sodipodi:nodetypes="cc" style="fill:none;stroke-dasharray:none;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;"/>
+            </g>
+            <g id="Stroke_3bd37e5c5e26441c91b47cbdb71dd702" inkscape:label="Group 10" opacity="1" stroke="#f5c4c4" stroke-opacity="1" stroke-width="1" transform="matrix(1, 0, 0, 1, 0, 0)">
+                <path d="M 287.667,129.667 C 287.667,129.667 287.667,130.667 287.667,130.667 287.667,130.667 287.667,129.667 287.667,129.667 Z" sodipodi:nodetypes="cc" style="fill:none;stroke-dasharray:none;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;"/>
+            </g>
+            <g id="Stroke_6ef1cad717b14226b9e61e7a44f5a821" inkscape:label="Group 9" opacity="1" stroke="#f5c4c4" stroke-opacity="1" stroke-width="1" transform="matrix(1, 0, 0, 1, 0, 0)">
+                <path d="M 287.667,127.721 C 287.667,127.721 287.667,70.307 287.667,70.307" sodipodi:nodetypes="cc" style="fill:none;stroke-dasharray:none;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;"/>
+            </g>
+            <g id="Stroke_311ccaa55b7a47d9b26e5daaecb0f9b7" inkscape:label="Group 8" opacity="1" stroke="#f5c4c4" stroke-opacity="1" stroke-width="1" transform="matrix(1, 0, 0, 1, 287.167, 68.833)">
+                <path d="M 0.5,0.5 C 0.5,0.5 0.5,-0.5 0.5,-0.5 0.5,-0.5 -0.5,-0.5 -0.5,-0.5" sodipodi:nodetypes="ccc" style="fill:none;stroke-dasharray:none;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;"/>
+            </g>
+            <g id="Stroke_b36da027066445a592245b6afaf80e4f" inkscape:label="Group 7" opacity="1" stroke="#f5c4c4" stroke-opacity="1" stroke-width="1" transform="matrix(1, 0, 0, 1, 0, 0)">
+                <path d="M 284.628,68.333 C 284.628,68.333 200.02,68.333 200.02,68.333" sodipodi:nodetypes="cc" style="fill:none;stroke-dasharray:none;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;"/>
+            </g>
+            <g id="Stroke_662b18d4247e41b3b642ece2a0c36f67" inkscape:label="Group 6" opacity="1" stroke="#f5c4c4" stroke-opacity="1" stroke-width="1" transform="matrix(1, 0, 0, 1, 0, 0)">
+                <path d="M 199,68.333 C 199,68.333 198,68.333 198,68.333" sodipodi:nodetypes="cc" style="fill:none;stroke-dasharray:none;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;"/>
+            </g>
+            <g id="Stroke_b4e460b1c6d74124a74c8a0dd01e84fe" inkscape:label="Group 5" opacity="1" stroke="#f5c4c4" stroke-opacity="1" stroke-width="1" transform="matrix(1, 0, 0, 1, 0, 0)">
+                <path d="M 570.75,82.969 C 570.75,82.969 569.75,82.969 569.75,82.969" sodipodi:nodetypes="cc" style="fill:none;stroke-dasharray:none;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;"/>
+            </g>
+            <g id="Stroke_f3fb7d735c24455e81a5fe1201013916" inkscape:label="Group 4" opacity="1" stroke="#f5c4c4" stroke-opacity="1" stroke-width="1" transform="matrix(1, 0, 0, 1, 0, 0)">
+                <path d="M 567.784,82.969 C 567.784,82.969 458.686,82.969 458.686,82.969" sodipodi:nodetypes="cc" style="fill:none;stroke-dasharray:none;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;"/>
+            </g>
+            <g id="Stroke_45a9d6d559ac45158a86041ac3557309" inkscape:label="Group 3" opacity="1" stroke="#f5c4c4" stroke-opacity="1" stroke-width="1" transform="matrix(1, 0, 0, 1, 457.204, 83.469)">
+                <path d="M 0.5,-0.5 C 0.5,-0.5 -0.5,-0.5 -0.5,-0.5 -0.5,-0.5 -0.5,0.5 -0.5,0.5" sodipodi:nodetypes="ccc" style="fill:none;stroke-dasharray:none;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;"/>
+            </g>
+            <g id="Stroke_cf3490fe17e44b749044711eaae935ea" inkscape:label="Group 2" opacity="1" stroke="#f5c4c4" stroke-opacity="1" stroke-width="1" transform="matrix(1, 0, 0, 1, 0, 0)">
+                <path d="M 456.704,85.998 C 456.704,85.998 456.704,129.621 456.704,129.621" sodipodi:nodetypes="cc" style="fill:none;stroke-dasharray:none;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;"/>
+            </g>
+            <g id="Stroke_fd9b6467acdd46a5a667663cd2d4222a" inkscape:label="Group 1" opacity="1" stroke="#f5c4c4" stroke-opacity="1" stroke-width="1" transform="matrix(1, 0, 0, 1, 0, 0)">
+                <path d="M 456.704,130.636 C 456.704,130.636 456.704,131.636 456.704,131.636" sodipodi:nodetypes="cc" style="fill:none;stroke-dasharray:none;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;"/>
+            </g>
+        </g>
+        <g id="Layer_ce124ff61266452b98c000513d4db1a1" inkscape:groupmode="layer" inkscape:label="Sheild/Lock Outlines" opacity="1" transform="matrix(1, 0, 0, 1, 0, 0)">
+            <g fill="#f5c4c4" fill-opacity="1" id="Fill_43ee15c2981d44e1bda78bba26b284b6" inkscape:label="Group 6" opacity="1" transform="matrix(1, 0, 0, 1, 366.965, 67.895)">
+                <path d="M 36.936,-24.465 C 36.936,-0.067 25.769,24.164 7.016,39.772 7.016,39.772 -0.432,45.971 -0.432,45.971 -0.432,45.971 -0.888,45.591 -0.888,45.591 -0.888,45.591 -7.778,39.834 -7.778,39.834 -26.46,24.227 -36.936,0.039 -36.936,-24.304 -36.936,-24.304 -36.936,-24.397 -36.936,-24.397 -36.936,-24.397 -0.888,-45.971 -0.888,-45.971 -0.888,-45.971 36.936,-24.465 36.936,-24.465 Z" sodipodi:nodetypes="cccccccc" style="stroke:none;"/>
+            </g>
+            <g fill="#3b0202" fill-opacity="1" id="Fill_7d3305f9d9db49ae8fe1221e82c0e2ae" inkscape:label="Group 5" opacity="1" transform="matrix(1, 0, 0, 1, 384.989, 67.895)">
+                <path d="M 18.912,-24.465 C 18.912,-0.067 7.745,24.164 -11.008,39.772 -11.008,39.772 -18.456,45.971 -18.456,45.971 -18.456,45.971 -18.912,45.591 -18.912,45.591 -18.912,45.591 -18.912,37.153 -18.912,37.153 -18.912,37.153 -18.382,37.595 -18.382,37.595 -18.382,37.595 -12.232,32.477 -12.232,32.477 3.256,19.59 12.475,-0.42 12.475,-20.566 12.475,-20.566 -18.756,-38.324 -18.756,-38.324 -18.756,-38.324 -18.912,-38.232 -18.912,-38.232 -18.912,-38.232 -18.912,-45.971 -18.912,-45.971 -18.912,-45.971 18.912,-24.465 18.912,-24.465 Z" sodipodi:nodetypes="ccccccccccc" style="stroke:none;"/>
+            </g>
+            <g fill="#f3cfcf" fill-opacity="1" id="Fill_8124bad92700425a8f48e532847240dd" inkscape:label="Group 4" opacity="1" transform="matrix(1, 0, 0, 1, 381.771, 67.53)">
+                <path d="M 15.693,-20.201 C 15.693,-0.055 6.474,19.955 -9.014,32.842 -9.014,32.842 -15.163,37.96 -15.163,37.96 -15.163,37.96 -15.693,37.517 -15.693,37.517 -15.693,37.517 -15.693,-37.867 -15.693,-37.867 -15.693,-37.867 -15.537,-37.96 -15.537,-37.96 -15.537,-37.96 15.693,-20.201 15.693,-20.201 Z" sodipodi:nodetypes="cccccc" style="stroke:none;"/>
+            </g>
+            <g fill="#ffffff" fill-opacity="1" id="Fill_115450fbada04494bd800903958bb701" inkscape:label="Group 3" opacity="1" transform="matrix(1, 0, 0, 1, 351.272, 67.355)">
+                <path d="M 14.806,-37.692 C 14.806,-37.692 14.806,37.692 14.806,37.692 14.806,37.692 9.27,33.069 9.27,33.069 -6.156,20.182 -14.806,0.207 -14.806,-19.895 -14.806,-19.895 -14.806,-19.971 -14.806,-19.971 -14.806,-19.971 14.806,-37.692 14.806,-37.692 Z" sodipodi:nodetypes="ccccc" style="stroke:none;"/>
+            </g>
+            <g id="Group_001578d6f7c0442596777ce5f0b73e50" inkscape:label="Group 2" opacity="1" transform="matrix(1, 0, 0, 1, 366.039, 66.015)">
+                <g fill="#ffffff" fill-opacity="1" id="Fill_dcaa9d1d1dfc42a0a7315a78d87b30d7" inkscape:label="Fill 1" style="stroke:none;">
+                    <path d="M -6.445,-5.511 C -6.438,-9.098 -3.633,-12.028 -0.096,-12.229 0.032,-12.236 0.162,-12.24 0.293,-12.24 4.014,-12.24 7.029,-9.229 7.035,-5.511 7.035,-5.511 -6.445,-5.511 -6.445,-5.511 Z" sodipodi:nodetypes="cccc" style="stroke:none;"/>
+                    <path d="M 12.842,-5.504 C 12.728,-12.349 7.149,-17.862 0.279,-17.862 0.155,-17.862 0.028,-17.859 -0.096,-17.855 -3.382,-17.76 -6.347,-16.403 -8.534,-14.25 -10.8,-12.021 -12.224,-8.932 -12.28,-5.511 -12.28,-5.511 -12.694,-5.511 -12.694,-5.511 -14.454,-5.511 -15.882,-4.083 -15.882,-2.323 -15.882,-2.323 -15.882,6.327 -15.882,6.327 -15.882,12.699 -10.714,17.862 -4.342,17.862 -4.342,17.862 4.343,17.862 4.343,17.862 10.715,17.862 15.882,12.699 15.882,6.327 15.882,6.327 15.882,-2.323 15.882,-2.323 15.882,-4.034 14.531,-5.427 12.842,-5.504 Z" sodipodi:nodetypes="cccccccccccc" style="stroke:none;"/>
+                </g>
+            </g>
+            <g fill="#f3cfcf" fill-opacity="1" id="Fill_95f73a359ed84457942e10dab6a6d093" inkscape:label="Group 1" opacity="1" transform="matrix(1, 0, 0, 1, 358.05, 66.018)">
+                <path d="M 1.543,-5.515 C 1.543,-5.515 7.893,-5.515 7.893,-5.515 7.893,-5.515 7.893,17.859 7.893,17.859 7.893,17.859 3.646,17.859 3.646,17.859 -2.726,17.859 -7.893,12.696 -7.893,6.324 -7.893,6.324 -7.893,-2.326 -7.893,-2.326 -7.893,-4.086 -6.465,-5.515 -4.705,-5.515 -4.705,-5.515 -4.291,-5.515 -4.291,-5.515 -4.235,-8.936 -2.811,-12.024 -0.545,-14.253 1.642,-16.406 4.607,-17.764 7.893,-17.859 7.893,-17.859 7.893,-12.232 7.893,-12.232 4.356,-12.031 1.55,-9.102 1.543,-5.515 Z" sodipodi:nodetypes="ccccccccccc" style="stroke:none;"/>
+            </g>
+        </g>
+        <g id="Layer_ac1c5236a814409c8dcb106af595ce03" inkscape:groupmode="layer" inkscape:label="Graph" opacity="1" transform="matrix(1, 0, 0, 1, 0, 0)">
+            <g transform="translate(130.594 97.703)">
+                <g transform="rotate(0)">
+                    <g transform="scale(1 1)">
+                        <g transform="translate(0 -32.588)">
+                            <g fill="#580505" fill-opacity="1" id="Fill_920340e62eb740a7ada66d253e2b9e40" inkscape:label="Group 6" opacity="1">
+                                <path d="M -3.172,-32.51 C -3.172,-32.51 3.171,-32.51 3.171,-32.51 3.171,-32.51 3.171,32.51 3.171,32.51 3.171,32.51 -3.172,32.51 -3.172,32.51 -3.172,32.51 -3.172,-32.51 -3.172,-32.51 Z" sodipodi:nodetypes="cccc" style="stroke:none;"/>
+                            </g>
+                        </g>
+                        <animateTransform attributeName="transform" begin="0.000000" calcMode="spline" dur="3.000000" keySplines="0 0 1 1; 0.167000 0.167000 0.833000 0.833000; 0.167000 0.167000 0.833000 0.833000" keyTimes="0; 0.666667; 0.826667; 1.000000" repeatCount="indefinite" type="scale" values="1 1; 1 1; 1 0.35; 1 1"/>
+                    </g>
+                </g>
+            </g>
+            <g transform="translate(144.338 96.956)">
+                <g transform="rotate(0)">
+                    <g transform="scale(1 1)">
+                        <g transform="translate(0 -14.659)">
+                            <g fill="#580505" fill-opacity="1" id="Fill_41afcd1ab3a047678891c0a0a5c1d18f" inkscape:label="Group 5" opacity="1">
+                                <path d="M -3.172,-15.331 C -3.172,-15.331 3.172,-15.331 3.172,-15.331 3.172,-15.331 3.172,15.331 3.172,15.331 3.172,15.331 -3.172,15.331 -3.172,15.331 -3.172,15.331 -3.172,-15.331 -3.172,-15.331 Z" sodipodi:nodetypes="cccc" style="stroke:none;"/>
+                            </g>
+                        </g>
+                        <animateTransform attributeName="transform" begin="0.000000" calcMode="spline" dur="3.000000" keySplines="0 0 1 1; 0.167000 0.167000 0.833000 0.833000; 0.167000 0.167000 0.833000 0.833000" keyTimes="0; 0.666667; 0.826667; 1.000000" repeatCount="indefinite" type="scale" values="1 1; 1 1; 1 1.55; 1 1"/>
+                    </g>
+                </g>
+            </g>
+            <g transform="translate(158.082 97.251)">
+                <g transform="rotate(0)">
+                    <g transform="scale(1 1)">
+                        <g transform="translate(0 -21.033)">
+                            <g fill="#580505" fill-opacity="1" id="Fill_d536606736a94c949f049eade2d4f972" inkscape:label="Group 4" opacity="1">
+                                <path d="M -3.171,-21.41 C -3.171,-21.41 3.172,-21.41 3.172,-21.41 3.172,-21.41 3.172,21.41 3.172,21.41 3.172,21.41 -3.171,21.41 -3.171,21.41 -3.171,21.41 -3.171,-21.41 -3.171,-21.41 Z" sodipodi:nodetypes="cccc" style="stroke:none;"/>
+                            </g>
+                        </g>
+                        <animateTransform attributeName="transform" begin="0.000000" calcMode="spline" dur="3.000000" keySplines="0 0 1 1; 0.167000 0.167000 0.833000 0.833000; 0.167000 0.167000 0.833000 0.833000" keyTimes="0; 0.666667; 0.826667; 1.000000" repeatCount="indefinite" type="scale" values="1 1; 1 1; 1 1.42; 1 1"/>
+                    </g>
+                </g>
+            </g>
+            <g transform="translate(103.105 97.218)">
+                <g transform="rotate(0)">
+                    <g transform="scale(1 1)">
+                        <g transform="translate(0 -15.847)">
+                            <g fill="#580505" fill-opacity="1" id="Fill_01fcef9d6b0a452490e646be4eb58a9a" inkscape:label="Group 3" opacity="1">
+                                <path d="M -3.172,-16.256 C -3.172,-16.256 3.172,-16.256 3.172,-16.256 3.172,-16.256 3.172,16.256 3.172,16.256 3.172,16.256 -3.172,16.256 -3.172,16.256 -3.172,16.256 -3.172,-16.256 -3.172,-16.256 Z" sodipodi:nodetypes="cccc" style="stroke:none;"/>
+                            </g>
+                        </g>
+                        <animateTransform attributeName="transform" begin="0.000000" calcMode="spline" dur="3.000000" keySplines="0 0 1 1; 0.167000 0.167000 0.833000 0.833000; 0.167000 0.167000 0.833000 0.833000" keyTimes="0; 0.666667; 0.826667; 1.000000" repeatCount="indefinite" type="scale" values="1 1; 1 1; 1 0.4; 1 1"/>
+                    </g>
+                </g>
+            </g>
+            <g transform="translate(116.863 97.187)">
+                <g transform="rotate(0)">
+                    <g transform="scale(1 1)">
+                        <g transform="translate(-0.014 -10.265)">
+                            <g fill="#580505" fill-opacity="1" id="Fill_69b186bfcee4488c82c1716e85436906" inkscape:label="Group 2" opacity="1">
+                                <path d="M -3.172,-10.705 C -3.172,-10.705 3.172,-10.705 3.172,-10.705 3.172,-10.705 3.172,10.705 3.172,10.705 3.172,10.705 -3.172,10.705 -3.172,10.705 -3.172,10.705 -3.172,-10.705 -3.172,-10.705 Z" sodipodi:nodetypes="cccc" style="stroke:none;"/>
+                            </g>
+                        </g>
+                        <animateTransform attributeName="transform" begin="0.000000" calcMode="spline" dur="3.000000" keySplines="0 0 1 1; 0.167000 0.167000 0.833000 0.833000; 0.167000 0.167000 0.833000 0.833000" keyTimes="0; 0.666667; 0.826667; 1.000000" repeatCount="indefinite" type="scale" values="1 1; 1 1; 1 1.95; 1 1"/>
+                    </g>
+                </g>
+            </g>
+            <g transform="translate(171.633 96.988)">
+                <g transform="rotate(0)">
+                    <g transform="scale(1 1)">
+                        <g transform="translate(0.194 -28.172)">
+                            <g fill="#580505" fill-opacity="1" id="Fill_626b854d99ba47d885382efd0b5db76e" inkscape:label="Group 1" opacity="1">
+                                <path d="M -3.172,-28.811 C -3.172,-28.811 3.172,-28.811 3.172,-28.811 3.172,-28.811 3.172,28.811 3.172,28.811 3.172,28.811 -3.172,28.811 -3.172,28.811 -3.172,28.811 -3.172,-28.811 -3.172,-28.811 Z" sodipodi:nodetypes="cccc" style="stroke:none;"/>
+                            </g>
+                        </g>
+                        <animateTransform attributeName="transform" begin="0.000000" calcMode="spline" dur="3.000000" keySplines="0 0 1 1; 0.167000 0.167000 0.833000 0.833000; 0.167000 0.167000 0.833000 0.833000" keyTimes="0; 0.666667; 0.826667; 1.000000" repeatCount="indefinite" type="scale" values="1 1; 1 1; 1 0.63; 1 1"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g id="Layer_e2560908a06f4c87babb6f05f49c789b" inkscape:groupmode="layer" inkscape:label="Main Screen/Lock Outlines" opacity="1" transform="matrix(1, 0, 0, 1, 0, 0)">
+            <g fill="#f5c4c4" fill-opacity="1" id="Fill_9550bede0e0a49cbade6c6b82348291c" inkscape:label="Group 12" opacity="1" transform="matrix(1, 0, 0, 1, 380.384, 414.928)">
+                <path d="M 282.54,10.36 C 282.54,10.36 -282.541,10.36 -282.541,10.36 -288.262,10.36 -292.9,5.722 -292.9,0.001 -292.9,-5.721 -288.262,-10.36 -282.541,-10.36 -282.541,-10.36 282.54,-10.36 282.54,-10.36 288.262,-10.36 292.9,-5.721 292.9,0.001 292.9,5.722 288.262,10.36 282.54,10.36 Z" sodipodi:nodetypes="cccccc" style="stroke:none;"/>
+            </g>
+            <g fill="#f5c4c4" fill-opacity="1" id="Fill_c05fa41c411747da9c4f8f51c9b41265" inkscape:label="Group 11" opacity="1" transform="matrix(1, 0, 0, 1, 368.703, 375.913)">
+                <path d="M 106.734,8.981 C 106.734,8.981 -106.734,8.981 -106.734,8.981 -110.899,8.981 -114.275,5.605 -114.275,1.44 -114.275,1.44 -114.275,-1.44 -114.275,-1.44 -114.275,-5.605 -110.899,-8.981 -106.734,-8.981 -106.734,-8.981 106.734,-8.981 106.734,-8.981 110.899,-8.981 114.275,-5.605 114.275,-1.44 114.275,-1.44 114.275,1.44 114.275,1.44 114.275,5.605 110.899,8.981 106.734,8.981 Z" sodipodi:nodetypes="cccccccc" style="stroke:none;"/>
+            </g>
+            <g fill="#3b0202" fill-opacity="1" id="Fill_55ecebcc07e0480bbafe0756fa15844b" inkscape:label="Group 10" opacity="1" transform="matrix(1, 0, 0, 1, 364.255, 394.685)">
+                <path d="M 131.672,9.962 C 131.672,9.962 -131.671,9.962 -131.671,9.962 -136.148,9.962 -139.779,6.332 -139.779,1.854 -139.779,1.854 -139.779,-1.854 -139.779,-1.854 -139.779,-6.332 -136.148,-9.962 -131.671,-9.962 -131.671,-9.962 131.672,-9.962 131.672,-9.962 136.15,-9.962 139.779,-6.332 139.779,-1.854 139.779,-1.854 139.779,1.854 139.779,1.854 139.779,6.332 136.15,9.962 131.672,9.962 Z" sodipodi:nodetypes="cccccccc" style="stroke:none;"/>
+            </g>
+            <g fill="#d3342a" fill-opacity="1" id="Fill_24f5f53752a54e4ab82d26336dde9377" inkscape:label="Group 9" opacity="1" transform="matrix(1, 0, 0, 1, 354.666, 358.92)">
+                <path d="M -29.407,8.075 C -29.407,8.075 13.258,8.075 13.258,8.075 22.177,8.075 29.408,0.845 29.408,-8.075 29.408,-8.075 -19.615,-8.075 -19.615,-8.075 -25.023,-8.075 -29.407,-3.691 -29.407,1.718 -29.407,1.718 -29.407,8.075 -29.407,8.075 Z" sodipodi:nodetypes="ccccc" style="stroke:none;"/>
+            </g>
+            <g fill="#3b0202" fill-opacity="1" id="Fill_f9973ca57bd5430e9ea14b68f6d8bf9c" inkscape:label="Group 8" opacity="1" transform="matrix(1, 0, 0, 1, 360.451, 321.648)">
+                <path d="M 25.069,29.648 C 25.069,29.648 -25.069,29.648 -25.069,29.648 -25.069,29.648 -25.069,-29.648 -25.069,-29.648 -25.069,-29.648 25.069,-29.648 25.069,-29.648 25.069,-29.648 25.069,29.648 25.069,29.648 Z" sodipodi:nodetypes="cccc" style="stroke:none;"/>
+            </g>
+            <g fill="#3b0202" fill-opacity="1" id="Fill_7aaf3eaec2b74aed91d606b9897e09b8" inkscape:label="Group 7" opacity="1" transform="matrix(1, 0, 0, 1, 359.143, 299.472)">
+                <path d="M 101.239,16.15 C 101.239,16.15 -101.239,16.15 -101.239,16.15 -111.756,16.15 -120.282,7.625 -120.282,-2.892 -120.282,-2.892 -120.282,-16.15 -120.282,-16.15 -120.282,-16.15 120.282,-16.15 120.282,-16.15 120.282,-16.15 120.282,-2.892 120.282,-2.892 120.282,7.625 111.757,16.15 101.239,16.15 Z" sodipodi:nodetypes="cccccc" style="stroke:none;"/>
+            </g>
+            <g fill="#3b0202" fill-opacity="1" id="Fill_06f47ba4eceb44c398668513fd15fd5f" inkscape:label="Group 6" opacity="1" transform="matrix(1, 0, 0, 1, 358.963, 208.84)">
+                <path d="M 120.281,76.411 C 120.281,76.411 -120.282,76.411 -120.282,76.411 -120.282,76.411 -120.282,-65.805 -120.282,-65.805 -120.282,-71.663 -115.533,-76.411 -109.676,-76.411 -109.676,-76.411 120.281,-76.411 120.281,-76.411 120.281,-76.411 120.281,76.411 120.281,76.411 Z" sodipodi:nodetypes="ccccc" style="stroke:none;"/>
+            </g>
+            <g fill="#3b0202" fill-opacity="1" id="Fill_945028ae0c854873be97a462052f052b" inkscape:label="Group 5" opacity="1" transform="matrix(1, 0, 0, 1, 368.164, 321.648)">
+                <path d="M 25.068,29.648 C 25.068,29.648 -25.069,29.648 -25.069,29.648 -25.069,29.648 -25.069,-29.648 -25.069,-29.648 -25.069,-29.648 25.068,-29.648 25.068,-29.648 25.068,-29.648 25.068,29.648 25.068,29.648 Z" sodipodi:nodetypes="cccc" style="stroke:none;"/>
+            </g>
+            <g fill="#d3342a" fill-opacity="1" id="Fill_c2c50fab18fd4289add99acdc8b88a0a" inkscape:label="Group 4" opacity="1" transform="matrix(1, 0, 0, 1, 370.533, 299.472)">
+                <path d="M 101.239,16.15 C 101.239,16.15 -101.239,16.15 -101.239,16.15 -111.756,16.15 -120.282,7.625 -120.282,-2.892 -120.282,-2.892 -120.282,-16.15 -120.282,-16.15 -120.282,-16.15 120.282,-16.15 120.282,-16.15 120.282,-16.15 120.282,-2.892 120.282,-2.892 120.282,7.625 111.756,16.15 101.239,16.15 Z" sodipodi:nodetypes="cccccc" style="stroke:none;"/>
+            </g>
+            <g fill="#3b0202" fill-opacity="1" id="Fill_4840385bd73545c08546ae5e49fa4931" inkscape:label="Group 3" opacity="1" transform="matrix(1, 0, 0, 1, 370.533, 208.84)">
+                <path d="M 120.281,76.411 C 120.281,76.411 -120.282,76.411 -120.282,76.411 -120.282,76.411 -120.282,-66.77 -120.282,-66.77 -120.282,-72.095 -115.966,-76.411 -110.641,-76.411 -110.641,-76.411 110.638,-76.411 110.638,-76.411 115.964,-76.411 120.281,-72.095 120.281,-66.77 120.281,-66.77 120.281,76.411 120.281,76.411 Z" sodipodi:nodetypes="cccccc" style="stroke:none;"/>
+            </g>
+            <g fill="#f5c4c4" fill-opacity="1" id="Fill_c600bc8aec9c4dddbbbea7a2640262c4" inkscape:label="Group 2" opacity="1" transform="matrix(1, 0, 0, 1, 370.869, 208.721)">
+                <path d="M 108.492,66.166 C 108.492,66.166 -108.492,66.166 -108.492,66.166 -108.492,66.166 -108.492,-66.166 -108.492,-66.166 -108.492,-66.166 108.492,-66.166 108.492,-66.166 108.492,-66.166 108.492,66.166 108.492,66.166 Z" sodipodi:nodetypes="cccc" style="stroke:none;"/>
+            </g>
+            <g fill="#3b0202" fill-opacity="1" id="Fill_bc3a82d24836416ea35f809cd2f7e258" inkscape:label="Group 1" opacity="1" transform="matrix(1, 0, 0, 1, 372.111, 358.92)">
+                <path d="M 29.408,8.075 C 29.408,8.075 -13.258,8.075 -13.258,8.075 -22.177,8.075 -29.408,0.845 -29.408,-8.075 -29.408,-8.075 19.615,-8.075 19.615,-8.075 25.023,-8.075 29.408,-3.691 29.408,1.718 29.408,1.718 29.408,8.075 29.408,8.075 Z" sodipodi:nodetypes="ccccc" style="stroke:none;"/>
+            </g>
+        </g>
+        <g transform="translate(374 216)">
+            <g transform="rotate(0)">
+                <g transform="scale(0.76 0.76)">
+                    <g transform="translate(-374 -216)">
+                        <g id="Layer_318c8cae00f143a799908e26a76204bc" inkscape:groupmode="layer" inkscape:label="Lines Middle/Lock Outlines" opacity="1">
+                            <g id="Stroke_be41e324f39442debc41aef1354002dc" inkscape:label="Group 12" opacity="1" stroke="#3b0202" stroke-opacity="1" stroke-width="1" transform="matrix(1, 0, 0, 1, 433.888, 194.913)">
+                                <path d="M -18.573,3.64 C -18.573,3.64 -0.445,3.64 -0.445,3.64 -0.445,3.64 6.835,-3.64 6.835,-3.64 6.835,-3.64 18.573,-3.64 18.573,-3.64" sodipodi:nodetypes="cccc" style="fill:none;stroke-dasharray:none;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;"/>
+                            </g>
+                            <g id="Stroke_2add463b92d14a3781ee4f4189d7a182" inkscape:label="Group 11" opacity="1" stroke="#3b0202" stroke-opacity="1" stroke-width="1" transform="matrix(1, 0, 0, 1, 0, 0)">
+                                <path d="M 415.315,208.855 C 415.315,208.855 442.159,208.855 442.159,208.855" sodipodi:nodetypes="cc" style="fill:none;stroke-dasharray:none;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;"/>
+                            </g>
+                            <g fill="#3b0202" fill-opacity="1" id="Fill_135e10d31ab64b3982af90d712fb1846" inkscape:label="Group 10" opacity="1" transform="matrix(1, 0, 0, 1, 451.198, 191.198)">
+                                <path d="M 2.749,0 C 2.749,1.518 1.518,2.749 0,2.749 -1.519,2.749 -2.749,1.518 -2.749,0 -2.749,-1.518 -1.519,-2.749 0,-2.749 1.518,-2.749 2.749,-1.518 2.749,0 Z" sodipodi:nodetypes="cccc" style="stroke:none;"/>
+                            </g>
+                            <g id="Stroke_84e1a3037b9a4183901ea1a0247be7c7" inkscape:label="Group 9" opacity="1" stroke="#3b0202" stroke-opacity="1" stroke-width="1" transform="matrix(1, 0, 0, 1, 434.879, 222.797)">
+                                <path d="M -18.573,-3.64 C -18.573,-3.64 -0.446,-3.64 -0.446,-3.64 -0.446,-3.64 6.834,3.64 6.834,3.64 6.834,3.64 18.573,3.64 18.573,3.64" sodipodi:nodetypes="cccc" style="fill:none;stroke-dasharray:none;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;"/>
+                            </g>
+                            <g fill="#3b0202" fill-opacity="1" id="Fill_a2802977ae8a45b6bf6a06cb679cc253" inkscape:label="Group 8" opacity="1" transform="matrix(1, 0, 0, 1, 452.188, 226.512)">
+                                <path d="M 2.749,0 C 2.749,-1.518 1.519,-2.749 0,-2.749 -1.519,-2.749 -2.749,-1.518 -2.749,0 -2.749,1.518 -1.519,2.749 0,2.749 1.519,2.749 2.749,1.518 2.749,0 Z" sodipodi:nodetypes="cccc" style="stroke:none;"/>
+                            </g>
+                            <g fill="#3b0202" fill-opacity="1" id="Fill_5469b77efacd43caaa8e9cf4af95fb56" inkscape:label="Group 7" opacity="1" transform="matrix(1, 0, 0, 1, 442.085, 208.83)">
+                                <path d="M 2.749,0 C 2.749,1.519 1.518,2.749 0,2.749 -1.519,2.749 -2.749,1.519 -2.749,0 -2.749,-1.518 -1.519,-2.749 0,-2.749 1.518,-2.749 2.749,-1.518 2.749,0 Z" sodipodi:nodetypes="cccc" style="stroke:none;"/>
+                            </g>
+                            <g id="Stroke_acb3c0500c11415e9e8a8b8163abb019" inkscape:label="Group 6" opacity="1" stroke="#3b0202" stroke-opacity="1" stroke-width="1" transform="matrix(1, 0, 0, 1, 304.29, 197.057)">
+                                <path d="M 18.573,3.64 C 18.573,3.64 0.446,3.64 0.446,3.64 0.446,3.64 -6.835,-3.64 -6.835,-3.64 -6.835,-3.64 -18.573,-3.64 -18.573,-3.64" sodipodi:nodetypes="cccc" style="fill:none;stroke-dasharray:none;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;"/>
+                            </g>
+                            <g id="Stroke_a7e97c6c301d4cc2befdc472cde09f99" inkscape:label="Group 5" opacity="1" stroke="#3b0202" stroke-opacity="1" stroke-width="1" transform="matrix(1, 0, 0, 1, 0, 0)">
+                                <path d="M 322.863,210.999 C 322.863,210.999 296.018,210.999 296.018,210.999" sodipodi:nodetypes="cc" style="fill:none;stroke-dasharray:none;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;"/>
+                            </g>
+                            <g fill="#3b0202" fill-opacity="1" id="Fill_71f6195824da4feab9ff0ed80e99704a" inkscape:label="Group 4" opacity="1" transform="matrix(1, 0, 0, 1, 286.979, 193.342)">
+                                <path d="M -2.749,0 C -2.749,1.518 -1.518,2.749 0,2.749 1.518,2.749 2.749,1.518 2.749,0 2.749,-1.519 1.518,-2.749 0,-2.749 -1.518,-2.749 -2.749,-1.519 -2.749,0 Z" sodipodi:nodetypes="cccc" style="stroke:none;"/>
+                            </g>
+                            <g id="Stroke_51f5c14518a94037b890e420e5ecf244" inkscape:label="Group 3" opacity="1" stroke="#3b0202" stroke-opacity="1" stroke-width="1" transform="matrix(1, 0, 0, 1, 303.299, 224.941)">
+                                <path d="M 18.573,-3.641 C 18.573,-3.641 0.446,-3.641 0.446,-3.641 0.446,-3.641 -6.835,3.641 -6.835,3.641 -6.835,3.641 -18.573,3.641 -18.573,3.641" sodipodi:nodetypes="cccc" style="fill:none;stroke-dasharray:none;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;"/>
+                            </g>
+                            <g fill="#3b0202" fill-opacity="1" id="Fill_9cd4b608705a446688adbaac849264cf" inkscape:label="Group 2" opacity="1" transform="matrix(1, 0, 0, 1, 285.989, 228.656)">
+                                <path d="M -2.749,0 C -2.749,-1.518 -1.518,-2.749 0,-2.749 1.518,-2.749 2.749,-1.518 2.749,0 2.749,1.518 1.518,2.749 0,2.749 -1.518,2.749 -2.749,1.518 -2.749,0 Z" sodipodi:nodetypes="cccc" style="stroke:none;"/>
+                            </g>
+                            <g fill="#3b0202" fill-opacity="1" id="Fill_a810996ad7a1464abca222d0fcbdb41e" inkscape:label="Group 1" opacity="1" transform="matrix(1, 0, 0, 1, 296.093, 210.974)">
+                                <path d="M -2.749,0 C -2.749,1.518 -1.519,2.749 0,2.749 1.518,2.749 2.749,1.518 2.749,0 2.749,-1.518 1.518,-2.749 0,-2.749 -1.519,-2.749 -2.749,-1.518 -2.749,0 Z" sodipodi:nodetypes="cccc" style="stroke:none;"/>
+                            </g>
+                        </g>
+                    </g>
+                    <animateTransform attributeName="transform" begin="0.000000" calcMode="spline" dur="3.000000" keySplines="0 0 1 1; 0.167000 0.167000 0.833000 0.833000; 0.167000 0.167000 0.833000 0.833000; 0.167000 0.167000 0.833000 0.833000; 0.167000 0.167000 0.833000 0.833000" keyTimes="0; 0.333333; 0.506667; 0.666667; 0.826667; 1.000000" repeatCount="indefinite" type="scale" values="0.76 0.76; 0.76 0.76; 1 1; 0.76 0.76; 1 1; 0.76 0.76"/>
+                </g>
+            </g>
+        </g>
+        <g id="Layer_3d09ae49fdba45d9bf025aa79b2ef0ef" inkscape:groupmode="layer" inkscape:label="Lock/Lock Outlines" opacity="1" transform="matrix(1, 0, 0, 1, 0, 0)">
+            <g id="Group_22ca4a6eddfb44beb4c163b0bfb754a4" inkscape:label="Group 6" opacity="1" transform="matrix(1, 0, 0, 1, 368.901, 185.905)">
+                <g fill="#3b0202" fill-opacity="1" id="Fill_05d51648587f4afa8eeedc0c89b1f546" inkscape:label="Fill 1" style="stroke:none;">
+                    <path d="M 12.043,12.355 C 12.043,12.355 -12.288,12.355 -12.288,12.355 -12.288,12.355 -12.288,-0.678 -12.288,-0.678 -12.288,-7.396 -6.841,-12.843 -0.123,-12.843 6.596,-12.843 12.043,-7.396 12.043,-0.678 12.043,-0.678 12.043,12.355 12.043,12.355 Z" sodipodi:nodetypes="ccccc" style="stroke:none;"/>
+                    <path d="M -0.001,-23.312 C -0.001,-23.312 -0.001,-23.312 -0.001,-23.312 -12.432,-23.312 -22.509,-13.235 -22.509,-0.804 -22.509,-0.804 -22.509,23.312 -22.509,23.312 -22.509,23.312 22.508,23.312 22.508,23.312 22.508,23.312 22.508,-0.804 22.508,-0.804 22.508,-13.235 12.43,-23.312 -0.001,-23.312 Z" sodipodi:nodetypes="cccccc" style="stroke:none;"/>
+                </g>
+            </g>
+            <g id="Group_296d6dad760d43bcb83662c87712f354" inkscape:label="Group 5" opacity="1" transform="matrix(1, 0, 0, 1, 373.527, 185.905)">
+                <g fill="#d3342a" fill-opacity="1" id="Fill_f1569d4f41f3479e825428ca8b4c4be6" inkscape:label="Fill 1" style="stroke:none;">
+                    <path d="M 12.043,12.355 C 12.043,12.355 -12.288,12.355 -12.288,12.355 -12.288,12.355 -12.288,-0.678 -12.288,-0.678 -12.288,-7.396 -6.84,-12.843 -0.122,-12.843 6.597,-12.843 12.043,-7.396 12.043,-0.678 12.043,-0.678 12.043,12.355 12.043,12.355 Z" sodipodi:nodetypes="ccccc" style="stroke:none;"/>
+                    <path d="M -0.001,-23.312 C -0.001,-23.312 -0.001,-23.312 -0.001,-23.312 -12.432,-23.312 -22.509,-13.235 -22.509,-0.804 -22.509,-0.804 -22.509,23.312 -22.509,23.312 -22.509,23.312 22.508,23.312 22.508,23.312 22.508,23.312 22.508,-0.804 22.508,-0.804 22.508,-13.235 12.43,-23.312 -0.001,-23.312 Z" sodipodi:nodetypes="cccccc" style="stroke:none;"/>
+                </g>
+            </g>
+            <g fill="#3b0202" fill-opacity="1" id="Fill_21bc16f9f5e8430cae3ba851b47925bb" inkscape:label="Group 4" opacity="1" transform="matrix(1, 0, 0, 1, 366.965, 225.468)">
+                <path d="M 0,31.773 C 0,31.773 0,31.773 0,31.773 -16.943,31.773 -30.677,18.039 -30.677,1.096 -30.677,1.096 -30.677,-31.773 -30.677,-31.773 -30.677,-31.773 30.677,-31.773 30.677,-31.773 30.677,-31.773 30.677,1.096 30.677,1.096 30.677,18.039 16.943,31.773 0,31.773 Z" sodipodi:nodetypes="cccccc" style="stroke:none;"/>
+            </g>
+            <g fill="#d3342a" fill-opacity="1" id="Fill_a10dfec8fef34f7dafe34a845122629d" inkscape:label="Group 3" opacity="1" transform="matrix(1, 0, 0, 1, 373.113, 225.468)">
+                <path d="M 0.399,31.773 C 0.399,31.773 -0.397,31.773 -0.397,31.773 -17.558,31.773 -31.468,17.862 -31.468,0.703 -31.468,0.703 -31.468,-31.773 -31.468,-31.773 -31.468,-31.773 31.469,-31.773 31.469,-31.773 31.469,-31.773 31.469,0.703 31.469,0.703 31.469,17.862 17.559,31.773 0.399,31.773 Z" sodipodi:nodetypes="cccccc" style="stroke:none;"/>
+            </g>
+            <g fill="#3b0202" fill-opacity="1" id="Fill_5eed12f6de4245579fee4b17e2917a6b" inkscape:label="Group 2" opacity="1" transform="matrix(1, 0, 0, 1, 375.301, 220.173)">
+                <path d="M 1.922,0.109 C 1.922,0.109 5.421,11.628 5.421,11.628 5.421,11.628 -6.025,11.628 -6.025,11.628 -6.025,11.628 -2.556,0.139 -2.556,0.139 -4.491,-0.861 -6.025,-3.265 -6.025,-5.602 -6.025,-8.538 -3.914,-10.993 -1.124,-11.519 -0.759,-11.592 -0.386,-11.628 0.001,-11.628 3.332,-11.628 6.026,-8.925 6.026,-5.602 6.026,-2.943 4.311,-0.694 1.922,0.109 Z" sodipodi:nodetypes="cccccccc" style="stroke:none;"/>
+            </g>
+            <g fill="#f5c4c4" fill-opacity="1" id="Fill_87ca9fc3f8674da59d48c5cd3878517b" inkscape:label="Group 1" opacity="1" transform="matrix(1, 0, 0, 1, 374.177, 220.228)">
+                <path d="M 0.796,0.054 C 0.796,0.054 4.295,11.574 4.295,11.574 4.295,11.574 -4.901,11.574 -4.901,11.574 -4.901,11.574 -1.432,0.084 -1.432,0.084 -3.368,-0.916 -4.901,-3.32 -4.901,-5.657 -4.901,-8.593 -2.79,-11.048 0,-11.574 2.79,-11.048 4.901,-8.593 4.901,-5.657 4.901,-2.998 3.184,-0.749 0.796,0.054 Z" sodipodi:nodetypes="ccccccc" style="stroke:none;"/>
+            </g>
+        </g>
+        <g transform="translate(613.872 97.181)">
+            <g transform="rotate(0)">
+                <g transform="scale(1 1)">
+                    <g transform="translate(-238.872 152.819)">
+                        <g id="Layer_0f95467bd51d4e2faf29e7c412bad59d_Layer_bc9d61b436a1466fb705d91b430a0453" inkscape:groupmode="layer" inkscape:label="Location/Lock Outlines (Null 1)">
+                            <g id="Layer_0f95467bd51d4e2faf29e7c412bad59d" inkscape:groupmode="layer" inkscape:label="Location/Lock Outlines" opacity="1" transform="matrix(1, 0, 0, 1, -375, -250)">
+                                <g id="Group_5ad1ed7806d3436ca2ec03708a858d66" inkscape:label="Group 1" opacity="1" transform="matrix(1, 0, 0, 1, 614.046, 74.117)">
+                                    <g fill="#f5c4c4" fill-opacity="1" id="Fill_06768747b743469b8752655e2c0034ea" inkscape:label="Fill 1" style="stroke:none;">
+                                        <path d="M 0,-27.964 C -10.264,-27.964 -18.585,-19.643 -18.585,-9.38 -18.585,0.885 -10.264,9.205 0,9.205 10.264,9.205 18.585,0.885 18.585,-9.38 18.585,-19.643 10.264,-27.964 0,-27.964 Z" sodipodi:nodetypes="cccc" style="stroke:none;"/>
+                                        <path d="M 25.598,-9.38 C 25.598,7.113 5.397,29.64 0.886,34.465 0.407,34.977 -0.404,34.975 -0.881,34.46 -5.382,29.595 -25.598,6.835 -25.598,-9.38 -25.598,-23.517 -14.138,-34.977 0,-34.977 14.138,-34.977 25.598,-23.517 25.598,-9.38 Z" sodipodi:nodetypes="ccccc" style="stroke:none;"/>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <animateMotion attributeName="transform" begin="0.000000" calcMode="spline" dur="3.000000" keySplines="0 0 1 1; 0.167000 0.167000 0.833000 0.833000; 0.167000 0.167000 0.833000 0.833000" keyTimes="0; 0.666667; 0.826667; 1.000000" path="M 613.872,97.181 C 613.872,99.317 613.872,110 613.872,110 613.872,110 613.872,99.317 613.872,97.181" repeatCount="indefinite" values="; ; ; "/>
+        </g>
+        <g transform="translate(613.872 97.181)">
+            <g transform="rotate(0)">
+                <g transform="scale(1 1)">
+                    <g transform="translate(-238.872 152.819)">
+                        <g id="Layer_91830ac303484db7a3de1ec7a6051286_Layer_bc9d61b436a1466fb705d91b430a0453" inkscape:groupmode="layer" inkscape:label="Wifi/Lock Outlines (Null 1)">
+                            <g id="Layer_91830ac303484db7a3de1ec7a6051286" inkscape:groupmode="layer" inkscape:label="Wifi/Lock Outlines" opacity="1" transform="matrix(1, 0, 0, 1, -375, -249.819)">
+                                <g id="Group_a243d26c73cc45c1846c0b8610098fbd" inkscape:label="Group 1" opacity="1" transform="matrix(1, 0, 0, 1, 614.055, 64.763)">
+                                    <g fill="#3b0202" fill-opacity="1" id="Fill_30107bdae5e4428cbeeb2905cb51a095" inkscape:label="Fill 1" style="stroke:none;">
+                                        <path d="M 0.062,5.851 C -1.605,5.851 -2.957,7.202 -2.957,8.869 -2.957,10.536 -1.605,11.887 0.062,11.887 1.729,11.887 3.08,10.536 3.08,8.869 3.08,7.202 1.729,5.851 0.062,5.851 Z" sodipodi:nodetypes="cccc" style="stroke:none;"/>
+                                        <path d="M -5.253,5.434 C -4.95,4.926 -3.11,3.049 -0.667,2.787 1.404,2.564 3.477,3.545 5.495,5.702 6.088,6.336 7.083,6.369 7.717,5.776 8.351,5.183 8.384,4.188 7.791,3.555 4.392,-0.079 1.133,-0.568 -1.001,-0.339 -4.608,0.048 -7.242,2.632 -7.953,3.823 -8.398,4.568 -8.154,5.533 -7.409,5.978 -7.156,6.129 -6.878,6.201 -6.604,6.201 -6.069,6.201 -5.547,5.927 -5.253,5.434 Z" sodipodi:nodetypes="ccccccccc" style="stroke:none;"/>
+                                        <path d="M -8.989,1.42 C -8.628,1.006 -5.325,-2.635 -0.575,-2.855 2.663,-3.003 5.928,-1.53 9.129,1.525 9.757,2.124 10.752,2.101 11.352,1.473 11.951,0.845 11.927,-0.15 11.299,-0.75 7.453,-4.42 3.409,-6.185 -0.719,-5.995 -6.649,-5.722 -10.624,-1.49 -11.36,-0.645 -11.93,0.01 -11.862,1.002 -11.207,1.573 -10.909,1.832 -10.542,1.959 -10.175,1.959 -9.737,1.959 -9.3,1.777 -8.989,1.42 Z" sodipodi:nodetypes="ccccccccc" style="stroke:none;"/>
+                                        <path d="M -13.814,-1.976 C -14.153,-1.976 -14.495,-2.086 -14.783,-2.311 -15.466,-2.846 -15.585,-3.836 -15.05,-4.519 -14.714,-4.948 -13.218,-6.526 -10.834,-8.088 -7.76,-10.103 -4.403,-11.285 -1.125,-11.507 4.492,-11.887 9.9,-9.589 14.949,-4.677 15.572,-4.071 15.584,-3.076 14.98,-2.454 14.375,-1.832 13.379,-1.818 12.756,-2.424 8.408,-6.655 3.843,-8.657 -0.809,-8.377 -4.275,-8.168 -7.191,-6.705 -9.027,-5.514 -11.066,-4.191 -12.365,-2.842 -12.578,-2.579 -12.887,-2.183 -13.348,-1.976 -13.814,-1.976 Z" sodipodi:nodetypes="ccccccccccc" style="stroke:none;"/>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <animateMotion attributeName="transform" begin="0.000000" calcMode="spline" dur="3.000000" keySplines="0 0 1 1; 0.167000 0.167000 0.833000 0.833000; 0.167000 0.167000 0.833000 0.833000" keyTimes="0; 0.666667; 0.826667; 1.000000" path="M 613.872,97.181 C 613.872,99.317 613.872,110 613.872,110 613.872,110 613.872,99.317 613.872,97.181" repeatCount="indefinite" values="; ; ; "/>
+        </g>
+        <g transform="translate(613.872 97.181)">
+            <g transform="rotate(0)">
+                <g transform="scale(1 1)">
+                    <g transform="translate(-238.872 152.819)">
+                        <g id="Layer_bc9d61b436a1466fb705d91b430a0453" inkscape:groupmode="layer" inkscape:label="Null 1" opacity="0"/>
+                    </g>
+                </g>
+            </g>
+            <animateMotion attributeName="transform" begin="0.000000" calcMode="spline" dur="3.000000" keySplines="0 0 1 1; 0.167000 0.167000 0.833000 0.833000; 0.167000 0.167000 0.833000 0.833000" keyTimes="0; 0.666667; 0.826667; 1.000000" path="M 613.872,97.181 C 613.872,99.317 613.872,110 613.872,110 613.872,110 613.872,99.317 613.872,97.181" repeatCount="indefinite" values="; ; ; "/>
+        </g>
+        <g id="Layer_eada06012ccc465ab069d0aea8f2febb" inkscape:groupmode="layer" inkscape:label="Envelope upper/Lock Outlines" opacity="1" transform="matrix(1, 0, 0, 1, 0, 1.181)">
+            <g fill="#3b0202" fill-opacity="1" id="Fill_b52594c3e80742a6be2f77415e5a8b92" inkscape:label="Group 1" opacity="1" transform="matrix(1, 0, 0, 1, 102.639, 200.656)">
+                <path d="M 27.837,21.991 C 27.837,21.991 -27.838,21.991 -27.838,21.991 -28.095,21.991 -28.349,21.98 -28.601,21.958 -34.36,21.455 -36.836,14.538 -32.943,10.399 -32.943,10.399 -5.339,-18.946 -5.339,-18.946 -2.475,-21.991 2.475,-21.991 5.34,-18.946 5.34,-18.946 32.941,10.399 32.941,10.399 36.835,14.538 34.359,21.455 28.599,21.958 28.348,21.98 28.094,21.991 27.837,21.991 Z" sodipodi:nodetypes="cccccccc" style="stroke:none;"/>
+            </g>
+        </g>
+        <g transform="translate(102 245)">
+            <g transform="rotate(0)">
+                <g transform="scale(1 1)">
+                    <g transform="translate(-102 -213)">
+                        <g id="Layer_8078108cd135494cbc8d95917467973e" inkscape:groupmode="layer" inkscape:label="Spider/Lock Outlines" opacity="1">
+                            <g fill="#ffffff" fill-opacity="1" id="Fill_9ed3502aaf334643b798f8b1a334fb0b" inkscape:label="Group 14" opacity="1" transform="matrix(1, 0, 0, 1, 102.709, 217.683)">
+                                <path d="M 23.284,16.011 C 23.284,16.011 -23.284,16.011 -23.284,16.011 -23.284,16.011 -23.284,-9.928 -23.284,-9.928 -23.284,-13.288 -20.561,-16.011 -17.201,-16.011 -17.201,-16.011 17.201,-16.011 17.201,-16.011 20.56,-16.011 23.284,-13.288 23.284,-9.928 23.284,-9.928 23.284,16.011 23.284,16.011 Z" sodipodi:nodetypes="cccccc" style="stroke:none;"/>
+                            </g>
+                            <g fill="#f3cfcf" fill-opacity="1" id="Fill_329a3d9606874e2686d78f1a17815868" inkscape:label="Group 13" opacity="1" transform="matrix(1, 0, 0, 1, 102.854, 211.712)">
+                                <path d="M 5.85,0 C 5.85,3.23 3.231,5.85 0.001,5.85 -3.23,5.85 -5.85,3.23 -5.85,0 -5.85,-3.23 -3.23,-5.85 0.001,-5.85 3.231,-5.85 5.85,-3.23 5.85,0 Z" sodipodi:nodetypes="cccc" style="stroke:none;"/>
+                            </g>
+                            <g fill="#f3cfcf" fill-opacity="1" id="Fill_3d65ce821fae42429d241e1d8f2be819" inkscape:label="Group 12" opacity="1" transform="matrix(1, 0, 0, 1, 100.532, 217.637)">
+                                <path d="M 0.952,1.339 C 0.952,1.339 -0.952,1.339 -0.952,1.339 -0.952,1.339 -0.952,-1.339 -0.952,-1.339 -0.952,-1.339 0.952,-1.339 0.952,-1.339 0.952,-1.339 0.952,1.339 0.952,1.339 Z" sodipodi:nodetypes="cccc" style="stroke:none;"/>
+                            </g>
+                            <g fill="#f3cfcf" fill-opacity="1" id="Fill_91c17152ba6a4e4b9d53798fb810a72c" inkscape:label="Group 11" opacity="1" transform="matrix(1, 0, 0, 1, 102.795, 218.083)">
+                                <path d="M 0.952,1.339 C 0.952,1.339 -0.952,1.339 -0.952,1.339 -0.952,1.339 -0.952,-1.339 -0.952,-1.339 -0.952,-1.339 0.952,-1.339 0.952,-1.339 0.952,-1.339 0.952,1.339 0.952,1.339 Z" sodipodi:nodetypes="cccc" style="stroke:none;"/>
+                            </g>
+                            <g fill="#f3cfcf" fill-opacity="1" id="Fill_9ea92ce48cf845b29d707cc9c48eeb07" inkscape:label="Group 10" opacity="1" transform="matrix(1, 0, 0, 1, 105.057, 217.577)">
+                                <path d="M 0.952,1.339 C 0.952,1.339 -0.952,1.339 -0.952,1.339 -0.952,1.339 -0.952,-1.339 -0.952,-1.339 -0.952,-1.339 0.952,-1.339 0.952,-1.339 0.952,-1.339 0.952,1.339 0.952,1.339 Z" sodipodi:nodetypes="cccc" style="stroke:none;"/>
+                            </g>
+                            <g fill="#ffffff" fill-opacity="1" id="Fill_b0f3bb31915d47b48bd9f9f976932ba6" inkscape:label="Group 9" opacity="1" transform="matrix(1, 0, 0, 1, 100.252, 212.387)">
+                                <path d="M -1.265,-1.222 C -1.265,-1.222 1.61,-0.043 1.61,-0.043 1.61,-0.043 1.553,1.049 0.46,1.136 -0.632,1.222 -1.61,0.36 -1.265,-1.222 Z" sodipodi:nodetypes="ccc" style="stroke:none;"/>
+                            </g>
+                            <g fill="#ffffff" fill-opacity="1" id="Fill_8e227bd2d17e45998958d265b467d1e1" inkscape:label="Group 8" opacity="1" transform="matrix(1, 0, 0, 1, 105.426, 212.418)">
+                                <path d="M 1.265,-1.222 C 1.265,-1.222 -1.61,-0.043 -1.61,-0.043 -1.61,-0.043 -1.553,1.049 -0.46,1.136 0.632,1.222 1.61,0.36 1.265,-1.222 Z" sodipodi:nodetypes="ccc" style="stroke:none;"/>
+                            </g>
+                            <g fill="#ffffff" fill-opacity="1" id="Fill_7850189464b74b12ac86be5490970e9f" inkscape:label="Group 7" opacity="1" transform="matrix(1, 0, 0, 1, 102.798, 214.403)">
+                                <path d="M -0.033,-0.704 C -0.033,-0.704 -0.658,0.704 -0.658,0.704 -0.658,0.704 0.659,0.704 0.659,0.704 0.659,0.704 -0.033,-0.704 -0.033,-0.704 Z" sodipodi:nodetypes="ccc" style="stroke:none;"/>
+                            </g>
+                            <g fill="#f3cfcf" fill-opacity="1" id="Fill_c5f17106c2fa4b6f87fe5caff43f4d48" inkscape:label="Group 6" opacity="1" transform="matrix(1, 0, 0, 1, 95.739, 208.684)">
+                                <path d="M 2.412,0.96 C 2.412,0.96 -0.268,0.446 -0.268,0.446 -0.268,0.446 -1.786,-1.942 -1.786,-1.942 -1.786,-1.942 -2.411,-1.585 -2.411,-1.585 -2.411,-1.585 -1.005,1.362 -1.005,1.362 -1.005,1.362 2.211,1.942 2.211,1.942 2.211,1.942 2.412,0.96 2.412,0.96 Z" sodipodi:nodetypes="cccccc" style="stroke:none;"/>
+                            </g>
+                            <g fill="#f3cfcf" fill-opacity="1" id="Fill_7ea86a0741fd47aeb1ee3603548a29a0" inkscape:label="Group 5" opacity="1" transform="matrix(1, 0, 0, 1, 95.71, 216.126)">
+                                <path d="M 2.412,-0.96 C 2.412,-0.96 -0.268,-0.447 -0.268,-0.447 -0.268,-0.447 -1.786,1.942 -1.786,1.942 -1.786,1.942 -2.411,1.585 -2.411,1.585 -2.411,1.585 -1.005,-1.362 -1.005,-1.362 -1.005,-1.362 2.211,-1.942 2.211,-1.942 2.211,-1.942 2.412,-0.96 2.412,-0.96 Z" sodipodi:nodetypes="cccccc" style="stroke:none;"/>
+                            </g>
+                            <g fill="#f3cfcf" fill-opacity="1" id="Fill_af5849c3c9f844e2bc37b999878789ee" inkscape:label="Group 4" opacity="1" transform="matrix(1, 0, 0, 1, 94.251, 212.8)">
+                                <path d="M 3.587,-1.162 C 3.587,-1.162 -0.699,-1.221 -0.699,-1.221 -0.699,-1.221 -3.825,0.654 -3.825,0.654 -3.825,0.654 -3.527,1.221 -3.527,1.221 -3.527,1.221 -0.283,-0.209 -0.283,-0.209 -0.283,-0.209 3.825,0.179 3.825,0.179 3.825,0.179 3.587,-1.162 3.587,-1.162 Z" sodipodi:nodetypes="cccccc" style="stroke:none;"/>
+                            </g>
+                            <g fill="#f3cfcf" fill-opacity="1" id="Fill_2e24888e98a74391a8cfd4b55964862f" inkscape:label="Group 3" opacity="1" transform="matrix(1, 0, 0, 1, 109.596, 208.654)">
+                                <path d="M -2.411,0.96 C -2.411,0.96 0.268,0.446 0.268,0.446 0.268,0.446 1.786,-1.942 1.786,-1.942 1.786,-1.942 2.411,-1.585 2.411,-1.585 2.411,-1.585 1.005,1.362 1.005,1.362 1.005,1.362 -2.21,1.942 -2.21,1.942 -2.21,1.942 -2.411,0.96 -2.411,0.96 Z" sodipodi:nodetypes="cccccc" style="stroke:none;"/>
+                            </g>
+                            <g fill="#f3cfcf" fill-opacity="1" id="Fill_c0946c75c02b4533af8c40511fa323b8" inkscape:label="Group 2" opacity="1" transform="matrix(1, 0, 0, 1, 109.626, 216.096)">
+                                <path d="M -2.411,-0.96 C -2.411,-0.96 0.268,-0.447 0.268,-0.447 0.268,-0.447 1.786,1.942 1.786,1.942 1.786,1.942 2.411,1.585 2.411,1.585 2.411,1.585 1.005,-1.362 1.005,-1.362 1.005,-1.362 -2.21,-1.942 -2.21,-1.942 -2.21,-1.942 -2.411,-0.96 -2.411,-0.96 Z" sodipodi:nodetypes="cccccc" style="stroke:none;"/>
+                            </g>
+                            <g fill="#f3cfcf" fill-opacity="1" id="Fill_1e36b49d607b433fa23bed7653b48c2d" inkscape:label="Group 1" opacity="1" transform="matrix(1, 0, 0, 1, 111.085, 212.77)">
+                                <path d="M -3.587,-1.162 C -3.587,-1.162 0.7,-1.221 0.7,-1.221 0.7,-1.221 3.825,0.654 3.825,0.654 3.825,0.654 3.528,1.221 3.528,1.221 3.528,1.221 0.283,-0.209 0.283,-0.209 0.283,-0.209 -3.825,0.179 -3.825,0.179 -3.825,0.179 -3.587,-1.162 -3.587,-1.162 Z" sodipodi:nodetypes="cccccc" style="stroke:none;"/>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <animateMotion attributeName="transform" begin="0.000000" calcMode="spline" dur="3.000000" keySplines="0 0 1 1; 0.167000 0.167000 0.833000 0.833000" keyTimes="0; 0.666667; 0.826667" path="M 102,245 C 102,239.667 102,218.333 102,213" repeatCount="indefinite" values="; ; "/>
+        </g>
+        <g id="Layer_5ad4501e286a4569a8543aa04a10d44f" inkscape:groupmode="layer" inkscape:label="Envelope/Lock Outlines" opacity="1" transform="matrix(1, 0, 0, 1, 0, 0)">
+            <g fill="#f5c4c4" fill-opacity="1" id="Fill_e798ec024ed94cd68c86b4f3d654ae1f" inkscape:label="Group 3" opacity="1" transform="matrix(1, 0, 0, 1, 102.592, 233.366)">
+                <path d="M 26.943,21.491 C 26.943,21.491 -26.943,21.491 -26.943,21.491 -31.423,21.491 -35.053,17.86 -35.053,13.38 -35.053,13.38 -35.053,-17.012 -35.053,-17.012 -35.053,-21.491 -31.423,-11.977 -26.943,-11.977 -26.943,-11.977 26.943,-11.977 26.943,-11.977 31.422,-11.977 35.053,-21.491 35.053,-17.012 35.053,-17.012 35.053,13.38 35.053,13.38 35.053,17.86 31.422,21.491 26.943,21.491 Z" sodipodi:nodetypes="cccccccc" style="stroke:none;"/>
+            </g>
+            <g fill="#3b0202" fill-opacity="1" id="Fill_dd01455c7b264eb7b209ba6cb0cf8dff" inkscape:label="Group 2" opacity="1" transform="matrix(1, 0, 0, 1, 109.771, 236.981)">
+                <path d="M -20.837,15.592 C -20.837,15.592 20.837,-15.592 20.837,-15.592 20.837,-15.592 -3.217,12.655 -20.837,15.592 Z" sodipodi:nodetypes="cc" style="stroke:none;"/>
+            </g>
+            <g fill="#3b0202" fill-opacity="1" id="Fill_c9ce3248181b4236b425f466af8107bb" inkscape:label="Group 1" opacity="1" transform="matrix(1, 0, 0, 1, 96.299, 236.686)">
+                <path d="M 21.489,15.188 C 21.489,15.188 -21.489,-15.188 -21.489,-15.188 -21.489,-15.188 3.601,12.707 21.489,15.188 Z" sodipodi:nodetypes="cc" style="stroke:none;"/>
+            </g>
+        </g>
+        <g id="Layer_1a84dd7c4881452b863876b6b6ba5807" inkscape:groupmode="layer" inkscape:label="Humans/Lock Outlines" opacity="1" transform="matrix(1, 0, 0, 1, 0, 0)">
+            <g fill="#f5c4c4" fill-opacity="1" id="Fill_22fb8faae4454d15b898d2196f2f3737" inkscape:label="Group 25" opacity="1" transform="matrix(1, 0, 0, 1, 134.195, 467.229)">
+                <path d="M 27.462,0 C 27.462,2.167 15.167,3.923 0,3.923 -15.166,3.923 -27.462,2.167 -27.462,0 -27.462,-2.166 -15.166,-3.923 0,-3.923 15.167,-3.923 27.462,-2.166 27.462,0 Z" sodipodi:nodetypes="cccc" style="stroke:none;"/>
+            </g>
+            <g fill="#ffa968" fill-opacity="1" id="Fill_150f2b43784c4fcbbbd44458a4d52b01" inkscape:label="Group 24" opacity="1" transform="matrix(1, 0, 0, 1, 159.125, 329.408)">
+                <path d="M -5.641,4.341 C -5.641,4.341 -2.398,1.464 -2.398,1.464 -2.398,1.464 -1.661,-1.48 -1.287,-2.391 -0.914,-3.304 -0.12,-4.419 0.276,-5.257 0.671,-6.095 1.517,-4.58 0.727,-2.904 0.727,-2.904 3.101,-4.645 3.279,-4.857 3.457,-5.07 3.765,-6.203 4.703,-6.559 5.641,-6.916 4.963,-4.309 4.356,-3.65 4.356,-3.65 5.181,-2.209 4.89,-1.562 4.599,-0.915 4.3,-0.026 4.378,0.512 4.456,1.05 4.269,1.506 2.806,2.257 1.343,3.008 -2.398,6.915 -2.398,6.915 -2.398,6.915 -5.203,5.014 -5.641,4.341 Z" sodipodi:nodetypes="cccccccccccc" style="stroke:none;"/>
+            </g>
+            <g fill="#f46e36" fill-opacity="1" id="Fill_f1da80c64fdc414e8bf66c4dfee426f1" inkscape:label="Group 23" opacity="1" transform="matrix(1, 0, 0, 1, 140.557, 334.749)">
+                <path d="M -15.846,-12.424 C -15.846,-12.424 -17.684,-11.431 -15.062,-5.273 -12.44,0.887 -2.109,10.393 4.434,12.097 10.977,13.803 17.684,0.25 17.684,0.25 17.684,0.25 13.385,-2.364 13.385,-2.364 13.385,-2.364 4.656,4.662 4.656,4.662 4.656,4.662 -10.161,-10.995 -12.225,-12.4 -14.288,-13.804 -15.846,-12.424 -15.846,-12.424 Z" sodipodi:nodetypes="ccccccc" style="stroke:none;"/>
+            </g>
+            <g fill="#00183b" fill-opacity="1" id="Fill_dbacf5d3d4aa442f86d979714309b936" inkscape:label="Group 22" opacity="1" transform="matrix(1, 0, 0, 1, 166.642, 333.453)">
+                <path d="M -6.615,-13 C -6.615,-13 -10.154,12.692 -10.154,12.692 -10.154,12.692 6.615,13 6.615,13 6.615,13 10.154,-12.846 10.154,-12.846 10.154,-12.846 -6.615,-13 -6.615,-13 Z" sodipodi:nodetypes="cccc" style="stroke:none;"/>
+            </g>
+            <g fill="#ffa968" fill-opacity="1" id="Fill_ffdcd8d224524fd38319e845fed5d02f" inkscape:label="Group 21" opacity="1" transform="matrix(1, 0, 0, 1, 135.082, 307.852)">
+                <path d="M 2.977,-10.799 C 2.977,-10.799 6.105,-10.093 6.206,-5.248 6.307,-0.404 7.619,0.303 7.619,0.303 7.619,0.303 6.812,5.146 5.601,6.357 4.39,7.569 1.463,7.468 1.463,7.468 1.463,7.468 0.756,10.799 0.756,10.799 0.756,10.799 -7.62,10.799 -7.62,10.799 -7.62,10.799 -6.712,0.807 -6.712,0.807 -6.712,0.807 0.05,-10.496 2.977,-10.799 Z" sodipodi:nodetypes="cccccccc" style="stroke:none;"/>
+            </g>
+            <g fill="#00183b" fill-opacity="1" id="Fill_b6f8763e20144acba76751b31a2cec9f" inkscape:label="Group 20" opacity="1" transform="matrix(1, 0, 0, 1, 129.834, 302.251)">
+                <path d="M 11.051,-7.722 C 11.051,-7.722 13.877,-5.199 12.767,-1.566 11.656,2.068 7.922,2.068 7.922,2.068 7.922,2.068 8.225,4.592 6.812,5.197 6.812,5.197 6.005,3.077 4.693,3.279 3.381,3.48 2.372,6.811 3.482,8.527 4.592,10.243 6.005,9.839 6.005,9.839 6.005,9.839 6.308,12.26 3.179,12.563 0.051,12.867 -4.693,13.17 -7.519,7.517 -10.345,1.866 -7.519,-2.877 -7.519,-2.877 -7.519,-2.877 -9.84,-1.868 -11.859,-3.382 -13.877,-4.896 -12.464,-10.951 -8.629,-11.86 -4.794,-12.768 -3.987,-7.419 -3.987,-7.419 -3.987,-7.419 3.28,-13.171 11.051,-7.722 Z" sodipodi:nodetypes="ccccccccccccc" style="stroke:none;"/>
+            </g>
+            <g fill="#f46e36" fill-opacity="1" id="Fill_aaae59aa1fc24e3b840792918bb1b402" inkscape:label="Group 19" opacity="1" transform="matrix(1, 0, 0, 1, 131.282, 337.376)">
+                <path d="M 13.076,7.726 C 12.651,14.557 11.904,20.077 11.904,20.077 11.904,20.077 10.002,20.059 10.002,20.059 10.002,20.059 -9.216,19.92 -9.216,19.92 -9.216,19.92 -13.694,-7.948 -13.259,-13.154 -12.798,-18.582 -4.952,-20.077 -4.952,-20.077 -4.952,-20.077 6.005,-19.948 9.707,-17.419 13.639,-14.742 13.695,-2.141 13.076,7.726 Z" sodipodi:nodetypes="ccccccc" style="stroke:none;"/>
+            </g>
+            <g fill="#f46e36" fill-opacity="1" id="Fill_7dd2543eb5b740f6958c545058e698cb" inkscape:label="Group 18" opacity="1" transform="matrix(1, 0, 0, 1, 151.95, 337.146)">
+                <path d="M -12.115,-16.846 C -12.115,-16.846 -14.192,-16.616 -14.077,-9.923 -13.961,-3.231 -7.961,9.462 -2.538,13.5 2.885,17.539 14.193,7.5 14.193,7.5 14.193,7.5 11.193,3.462 11.193,3.462 11.193,3.462 0.462,6.692 0.462,6.692 0.462,6.692 -7.385,-13.385 -8.77,-15.462 -10.155,-17.538 -12.115,-16.846 -12.115,-16.846 Z" sodipodi:nodetypes="ccccccc" style="stroke:none;"/>
+            </g>
+            <g fill="#ffa968" fill-opacity="1" id="Fill_ead959218ae9447e9a5e69542e580e56" inkscape:label="Group 17" opacity="1" transform="matrix(1, 0, 0, 1, 170.45, 338.415)">
+                <path d="M -7,2.422 C -7,2.422 -3.077,0.577 -3.077,0.577 -3.077,0.577 -1.538,-2.038 -0.923,-2.807 -0.308,-3.577 0.77,-4.423 1.385,-5.115 2,-5.807 2.385,-4.115 1.154,-2.73 1.154,-2.73 3.923,-3.73 4.154,-3.885 4.385,-4.039 5,-5.039 6,-5.115 7,-5.192 5.616,-2.885 4.847,-2.423 4.847,-2.423 5.231,-0.807 4.77,-0.269 4.308,0.27 3.77,1.038 3.692,1.577 3.616,2.115 3.308,2.499 1.692,2.807 0.077,3.114 -4.615,5.807 -4.615,5.807 -4.615,5.807 -6.769,3.192 -7,2.422 Z" sodipodi:nodetypes="cccccccccccc" style="stroke:none;"/>
+            </g>
+            <g fill="#f46e36" fill-opacity="1" id="Fill_2a80bcc867084ddf9efe93ceb186ff15" inkscape:label="Group 16" opacity="1" transform="matrix(1, 0, 0, 1, 140.979, 344.299)">
+                <path d="M 3.378,0.803 C 2.953,7.634 2.206,13.154 2.206,13.154 2.206,13.154 0.304,13.136 0.304,13.136 0.304,13.136 1.089,2.538 1.089,2.538 -2.917,-3.157 -3.379,-13.154 -3.379,-13.154 -3.379,-13.154 2.778,-0.849 2.778,-0.849 2.778,-0.849 3.378,0.803 3.378,0.803 Z" sodipodi:nodetypes="cccccc" style="stroke:none;"/>
+            </g>
+            <g fill="#00183b" fill-opacity="1" id="Fill_36de358d7c0141f39a99c26a233bb1e5" inkscape:label="Group 15" opacity="1" transform="matrix(1, 0, 0, 1, 134.084, 385.05)">
+                <path d="M 9.212,-28.212 C 9.212,-28.212 16.596,-12.365 8.788,28.212 8.788,28.212 -12.443,28.212 -12.443,28.212 -12.443,28.212 -16.597,3.058 -16.366,-9.173 -16.135,-21.404 -12.02,-27.75 -12.02,-27.75 -12.02,-27.75 9.212,-28.212 9.212,-28.212 Z" sodipodi:nodetypes="ccccc" style="stroke:none;"/>
+            </g>
+            <g fill="#00183b" fill-opacity="1" id="Fill_bd271f4444904223b0662f6148a5eb1e" inkscape:label="Group 14" opacity="1" transform="matrix(1, 0, 0, 1, 137.007, 433.552)">
+                <path d="M -4.339,-29.483 C -4.339,-29.483 -5.536,-11.301 -0.904,29.357 -0.904,29.357 5.031,29.483 5.031,29.483 5.031,29.483 5.536,-26.706 5.536,-26.706 5.536,-26.706 -4.339,-29.483 -4.339,-29.483 Z" sodipodi:nodetypes="cccc" style="stroke:none;"/>
+            </g>
+            <g fill="#00183b" fill-opacity="1" id="Fill_8e0513c8a8434dfaa7095723a57bde42" inkscape:label="Group 13" opacity="1" transform="matrix(1, 0, 0, 1, 126.526, 431.361)">
+                <path d="M -1.691,-29.633 C -1.691,-29.633 -6.247,-9.68 -6.923,27.708 -6.923,27.708 -1.923,29.632 -1.923,29.632 -1.923,29.632 6.923,-25.933 6.923,-25.933 6.923,-25.933 -1.691,-29.633 -1.691,-29.633 Z" sodipodi:nodetypes="cccc" style="stroke:none;"/>
+            </g>
+            <g fill="#00183b" fill-opacity="1" id="Fill_a53f1287db414760a0628a34f75e8d32" inkscape:label="Group 12" opacity="1" transform="matrix(1, 0, 0, 1, 143.522, 465.371)">
+                <path d="M -7.671,-3.093 C -7.671,-3.093 -8.744,1.958 -8.302,2.526 -7.86,3.094 -1.61,3.094 0.095,2.716 1.799,2.337 4.451,3.031 6.597,1.958 8.744,0.885 -1.61,-2.778 -1.61,-2.778 -1.61,-2.778 -7.671,-3.093 -7.671,-3.093 Z" sodipodi:nodetypes="ccccc" style="stroke:none;"/>
+            </g>
+            <g fill="#00183b" fill-opacity="1" id="Fill_d2e2707a76064ecab421b7844e549ef3" inkscape:label="Group 11" opacity="1" transform="matrix(1, 0, 0, 1, 124.543, 463.143)">
+                <path d="M -5.152,-5.274 C -5.152,-5.274 -8.198,-1.105 -8.027,-0.406 -7.857,0.293 -2.154,2.851 -0.444,3.203 1.267,3.555 3.402,5.274 5.8,5.172 8.198,5.072 0.249,-2.506 0.249,-2.506 0.249,-2.506 -5.152,-5.274 -5.152,-5.274 Z" sodipodi:nodetypes="ccccc" style="stroke:none;"/>
+            </g>
+            <g fill="#f5c4c4" fill-opacity="1" id="Fill_4d95ac09fa4e4687af9dfaddce2c8648" inkscape:label="Group 10" opacity="1" transform="matrix(1, 0, 0, 1, 205.862, 465.562)">
+                <path d="M 27.462,0 C 27.462,2.166 15.166,3.923 -0.001,3.923 -15.167,3.923 -27.462,2.166 -27.462,0 -27.462,-2.167 -15.167,-3.924 -0.001,-3.924 15.166,-3.924 27.462,-2.167 27.462,0 Z" sodipodi:nodetypes="cccc" style="stroke:none;"/>
+            </g>
+            <g fill="#ffa968" fill-opacity="1" id="Fill_7a337711451044cfac3fb8042d43875e" inkscape:label="Group 9" opacity="1" transform="matrix(1, 0, 0, 1, 197.958, 302.455)">
+                <path d="M -4.186,-11.427 C -4.186,-11.427 -7.473,-10.481 -7.279,-5.318 -7.085,-0.154 -8.438,0.679 -8.438,0.679 -8.438,0.679 -7.278,5.787 -5.913,7.001 -4.548,8.215 -1.439,7.926 -1.439,7.926 -1.439,7.926 -0.479,11.427 -0.479,11.427 -0.479,11.427 8.438,10.906 8.438,10.906 8.438,10.906 6.85,0.326 6.85,0.326 6.85,0.326 -1.051,-11.287 -4.186,-11.427 Z" sodipodi:nodetypes="cccccccc" style="stroke:none;"/>
+            </g>
+            <g fill="#00183b" fill-opacity="1" id="Fill_7de041600ac541b0b61978381c4ef7b9" inkscape:label="Group 8" opacity="1" transform="matrix(1, 0, 0, 1, 198.492, 297.41)">
+                <path d="M 2.526,-11.717 C -1.925,-12.155 -11.378,-8.272 -12.117,-7.164 -12.855,-6.057 -8.056,-3.596 -3.38,-2.735 -3.38,-2.735 -4.242,-0.028 -2.519,1.572 -2.519,1.572 -2.396,4.156 -1.535,4.894 -1.535,4.894 -1.288,2.31 0.065,2.31 1.419,2.31 1.911,5.263 1.665,7.355 1.419,9.447 -0.673,9.325 -0.673,9.325 -0.673,9.325 3.88,12.155 7.079,11.171 7.079,11.171 12.855,3.274 12.493,-0.889 12.083,-5.606 9.13,-6.754 9.13,-6.754 9.13,-6.754 8.35,-11.143 2.526,-11.717 Z" sodipodi:nodetypes="ccccccccccc" style="stroke:none;"/>
+            </g>
+            <g fill="#f46e36" fill-opacity="1" id="Fill_c40331099eba4c67aa915aec4e43d4fc" inkscape:label="Group 7" opacity="1" transform="matrix(1, 0, 0, 1, 201.921, 338.268)">
+                <path d="M 14.544,3.887 C 13.159,16.496 12.235,27.037 12.235,27.037 12.235,27.037 -8.543,27.444 -8.543,27.444 -8.543,27.444 -11.303,27.499 -11.303,27.499 -11.303,27.499 -11.802,23.004 -12.467,16.866 -13.851,4.08 -15.928,-15.84 -15.614,-17.197 -15.153,-19.19 -8.073,-21.499 -8.073,-21.499 -8.073,-21.499 -7.768,-23.805 -7.768,-23.805 -7.768,-23.805 -7.611,-24.425 -2.229,-25.966 3.161,-27.498 5.773,-26.427 5.773,-26.427 5.773,-26.427 6.078,-24.267 6.078,-24.267 6.078,-24.267 12.854,-20.114 14.238,-19.348 15.623,-18.582 15.928,-8.732 14.544,3.887 Z" sodipodi:nodetypes="cccccccccccc" style="stroke:none;"/>
+            </g>
+            <g fill="#f46e36" fill-opacity="1" id="Fill_13bba12e845a49d4993c4ea98c0893ae" inkscape:label="Group 6" opacity="1" transform="matrix(1, 0, 0, 1, 193.844, 347.499)">
+                <path d="M 1.39,1.421 C -1.472,8.252 -0.548,17.4 -0.465,18.212 -0.465,18.212 -3.227,18.268 -3.227,18.268 -3.227,18.268 -3.724,13.773 -4.389,7.634 -4.389,7.634 -4.38,7.191 -4.38,7.191 -4.38,7.191 2.312,-18.268 2.312,-18.268 2.312,-18.268 4.39,-5.732 1.39,1.421 Z" sodipodi:nodetypes="cccccc" style="stroke:none;"/>
+            </g>
+            <g fill="#f46e36" fill-opacity="1" id="Fill_3f923439a509400caaefeafbf48093ba" inkscape:label="Group 5" opacity="1" transform="matrix(1, 0, 0, 1, 181.234, 340.728)">
+                <path d="M 5.538,-20.5 C 2.403,-18.374 0.769,12.039 0.769,12.039 0.769,12.039 -14.923,17.27 -14.923,17.27 -14.923,17.27 -13.077,23.577 -13.077,23.577 -13.077,23.577 1.23,23.116 6,19.27 10.769,15.424 14.923,-11.5 14.923,-11.5 14.923,-11.5 10.077,-23.577 5.538,-20.5 Z" sodipodi:nodetypes="cccccc" style="stroke:none;"/>
+            </g>
+            <g fill="#00183b" fill-opacity="1" id="Fill_d33375640c884670a7cdc9fef4b56e27" inkscape:label="Group 4" opacity="1" transform="matrix(1, 0, 0, 1, 206.83, 409.767)">
+                <path d="M -16.827,-45.308 C -16.827,-45.308 -17.481,-29.616 -17.481,-29.616 -17.481,-29.616 -13.288,45.308 -13.288,45.308 -13.288,45.308 -2.827,45.154 -2.827,45.154 -2.827,45.154 -3.596,-30.578 -3.596,-30.578 -3.596,-30.578 -2.557,-31.616 -2.557,-31.616 -2.557,-31.616 0.212,0.692 0.212,0.692 0.212,0.692 7.327,45.154 7.327,45.154 7.327,45.154 17.481,43.769 17.481,43.769 17.481,43.769 12.443,-1.154 12.443,-1.154 12.443,-1.154 7.365,-44.885 7.365,-44.885 7.365,-44.885 -16.827,-45.308 -16.827,-45.308 Z" sodipodi:nodetypes="ccccccccccc" style="stroke:none;"/>
+            </g>
+            <g fill="#00183b" fill-opacity="1" id="Fill_909ecfdb1c4b4a1cb7ca5f3d76233375" inkscape:label="Group 3" opacity="1" transform="matrix(1, 0, 0, 1, 194.772, 459.21)">
+                <path d="M -0.115,-5.942 C -0.115,-5.942 0.116,-1.904 0.116,-1.904 0.116,-1.904 -8.654,3.75 -9,4.673 -9.346,5.596 -1.73,5.711 0.231,5.596 2.193,5.481 6.808,6.173 9.346,5.481 9.346,5.481 7.846,-6.173 7.846,-6.173 7.846,-6.173 -0.115,-5.942 -0.115,-5.942 Z" sodipodi:nodetypes="cccccc" style="stroke:none;"/>
+            </g>
+            <g fill="#00183b" fill-opacity="1" id="Fill_294ceb9838f445d6a38e5f46614e6c57" inkscape:label="Group 2" opacity="1" transform="matrix(1, 0, 0, 1, 216.374, 458.556)">
+                <path d="M -1.318,-5.689 C -1.318,-5.689 -0.665,-1.697 -0.665,-1.697 -0.665,-1.697 -8.794,4.845 -9.041,5.799 -9.289,6.753 -1.703,6.07 0.236,5.749 2.174,5.429 6.837,5.634 9.289,4.679 9.289,4.679 6.576,-6.753 6.576,-6.753 6.576,-6.753 -1.318,-5.689 -1.318,-5.689 Z" sodipodi:nodetypes="cccccc" style="stroke:none;"/>
+            </g>
+            <g fill="#ffa968" fill-opacity="1" id="Fill_7a586a629276484ca56f8188220dfe4b" inkscape:label="Group 1" opacity="1" transform="matrix(1, 0, 0, 1, 161.118, 363.113)">
+                <path d="M 5.577,-4.269 C 5.577,-4.269 3.268,-3.577 3.268,-3.577 3.268,-3.577 1.192,-4.193 -0.27,-4.193 -1.732,-4.193 -2.732,-4.116 -2.501,-3.731 -2.27,-3.346 -0.115,-2.884 0.577,-2.654 1.269,-2.423 -2.653,-1.346 -3.346,-1.346 -4.038,-1.346 -6.346,-1.5 -6.423,-1.039 -6.5,-0.577 -4.27,0.116 -3.27,0.116 -3.27,0.116 -4.193,0.577 -4.962,0.423 -5.732,0.269 -5.501,-0.654 -6.193,-0.193 -6.885,0.269 -6.193,1.654 -5.501,1.884 -4.808,2.116 -4.653,3.269 -4.115,3.346 -3.577,3.423 -2.731,3.654 -2.115,3.884 -1.5,4.116 -0.731,4.269 -0.038,4.039 0.654,3.807 0.731,3.731 1.885,3.116 3.039,2.5 4.807,0.731 4.807,0.731 4.807,0.731 6.885,0.116 6.885,0.116 6.885,0.116 5.577,-4.269 5.577,-4.269 Z" sodipodi:nodetypes="ccccccccccccccccc" style="stroke:none;"/>
+            </g>
+        </g>
+        <g id="Layer_4e0155cde1c842b3a81c866ff0d2d7b4" inkscape:groupmode="layer" inkscape:label="Phone/Lock Outlines" opacity="1" transform="matrix(1, 0, 0, 1, 0, 0)">
+            <g fill="#3b0202" fill-opacity="1" id="Fill_f95073b8fc41438d8eb74907579463e1" inkscape:label="Group 13" opacity="1" transform="matrix(1, 0, 0, 1, 606.105, 218.313)">
+                <path d="M 22.603,-30.141 C 22.603,-30.141 22.603,30.141 22.603,30.141 22.603,33.118 20.176,35.546 17.199,35.546 17.199,35.546 -17.198,35.546 -17.198,35.546 -20.185,35.546 -22.603,33.118 -22.603,30.141 -22.603,30.141 -22.603,-30.141 -22.603,-30.141 -22.603,-33.119 -20.185,-35.546 -17.198,-35.546 -17.198,-35.546 17.199,-35.546 17.199,-35.546 20.176,-35.546 22.603,-33.119 22.603,-30.141 Z" sodipodi:nodetypes="cccccccc" style="stroke:none;"/>
+            </g>
+            <g fill="#f3cfcf" fill-opacity="1" id="Fill_bbacdb30982746358f4f284353140cc0" inkscape:label="Group 12" opacity="1" transform="matrix(1, 0, 0, 1, 606.105, 218.067)">
+                <path d="M 22.603,24.568 C 22.603,24.568 -22.603,24.568 -22.603,24.568 -22.603,24.568 -22.603,-24.568 -22.603,-24.568 -22.603,-24.568 22.603,-24.568 22.603,-24.568 22.603,-24.568 22.603,24.568 22.603,24.568 Z" sodipodi:nodetypes="cccc" style="stroke:none;"/>
+            </g>
+            <g fill="#ffffff" fill-opacity="1" id="Fill_fd328080a0c548fd858413a7dad1b192" inkscape:label="Group 11" opacity="1" transform="matrix(1, 0, 0, 1, 592.995, 203.094)">
+                <path d="M 2.892,2.816 C 2.892,2.816 -2.891,2.816 -2.891,2.816 -2.891,2.816 -2.891,-2.816 -2.891,-2.816 -2.891,-2.816 2.892,-2.816 2.892,-2.816 2.892,-2.816 2.892,2.816 2.892,2.816 Z" sodipodi:nodetypes="cccc" style="stroke:none;"/>
+            </g>
+            <g fill="#ffffff" fill-opacity="1" id="Fill_f42d5630b2c2421eb820e37a1cf893d7" inkscape:label="Group 10" opacity="1" transform="matrix(1, 0, 0, 1, 606.922, 203.094)">
+                <path d="M 2.892,2.816 C 2.892,2.816 -2.892,2.816 -2.892,2.816 -2.892,2.816 -2.892,-2.816 -2.892,-2.816 -2.892,-2.816 2.892,-2.816 2.892,-2.816 2.892,-2.816 2.892,2.816 2.892,2.816 Z" sodipodi:nodetypes="cccc" style="stroke:none;"/>
+            </g>
+            <g fill="#ffffff" fill-opacity="1" id="Fill_dd60f898cb4a4112bdbeb28f93be784f" inkscape:label="Group 9" opacity="1" transform="matrix(1, 0, 0, 1, 619.594, 203.094)">
+                <path d="M 2.892,2.816 C 2.892,2.816 -2.892,2.816 -2.892,2.816 -2.892,2.816 -2.892,-2.816 -2.892,-2.816 -2.892,-2.816 2.892,-2.816 2.892,-2.816 2.892,-2.816 2.892,2.816 2.892,2.816 Z" sodipodi:nodetypes="cccc" style="stroke:none;"/>
+            </g>
+            <g fill="#ffffff" fill-opacity="1" id="Fill_0211a48ab51b4c7fa1c29e1bf10ef6ed" inkscape:label="Group 8" opacity="1" transform="matrix(1, 0, 0, 1, 592.995, 216.184)">
+                <path d="M 2.892,2.816 C 2.892,2.816 -2.891,2.816 -2.891,2.816 -2.891,2.816 -2.891,-2.816 -2.891,-2.816 -2.891,-2.816 2.892,-2.816 2.892,-2.816 2.892,-2.816 2.892,2.816 2.892,2.816 Z" sodipodi:nodetypes="cccc" style="stroke:none;"/>
+            </g>
+            <g fill="#ffffff" fill-opacity="1" id="Fill_2e48dc365b9b4769bd34e1005e8c4e99" inkscape:label="Group 7" opacity="1" transform="matrix(1, 0, 0, 1, 606.922, 216.184)">
+                <path d="M 2.892,2.816 C 2.892,2.816 -2.892,2.816 -2.892,2.816 -2.892,2.816 -2.892,-2.816 -2.892,-2.816 -2.892,-2.816 2.892,-2.816 2.892,-2.816 2.892,-2.816 2.892,2.816 2.892,2.816 Z" sodipodi:nodetypes="cccc" style="stroke:none;"/>
+            </g>
+            <g fill="#ffffff" fill-opacity="1" id="Fill_a1df2a6ac9664b149c0052d7580e6522" inkscape:label="Group 6" opacity="1" transform="matrix(1, 0, 0, 1, 619.594, 216.184)">
+                <path d="M 2.892,2.816 C 2.892,2.816 -2.892,2.816 -2.892,2.816 -2.892,2.816 -2.892,-2.816 -2.892,-2.816 -2.892,-2.816 2.892,-2.816 2.892,-2.816 2.892,-2.816 2.892,2.816 2.892,2.816 Z" sodipodi:nodetypes="cccc" style="stroke:none;"/>
+            </g>
+            <g fill="#ffffff" fill-opacity="1" id="Fill_cbfcbbfe38c34695ad0cbddb79b76d77" inkscape:label="Group 5" opacity="1" transform="matrix(1, 0, 0, 1, 592.995, 229.059)">
+                <path d="M 2.892,2.816 C 2.892,2.816 -2.891,2.816 -2.891,2.816 -2.891,2.816 -2.891,-2.816 -2.891,-2.816 -2.891,-2.816 2.892,-2.816 2.892,-2.816 2.892,-2.816 2.892,2.816 2.892,2.816 Z" sodipodi:nodetypes="cccc" style="stroke:none;"/>
+            </g>
+            <g fill="#ffffff" fill-opacity="1" id="Fill_fcb0d7a7a7bb46649e98a4a810008f01" inkscape:label="Group 4" opacity="1" transform="matrix(1, 0, 0, 1, 606.922, 229.059)">
+                <path d="M 2.892,2.816 C 2.892,2.816 -2.892,2.816 -2.892,2.816 -2.892,2.816 -2.892,-2.816 -2.892,-2.816 -2.892,-2.816 2.892,-2.816 2.892,-2.816 2.892,-2.816 2.892,2.816 2.892,2.816 Z" sodipodi:nodetypes="cccc" style="stroke:none;"/>
+            </g>
+            <g fill="#ffffff" fill-opacity="1" id="Fill_10d2e5616de7464c9b16b4dc98ea1b9e" inkscape:label="Group 3" opacity="1" transform="matrix(1, 0, 0, 1, 619.594, 229.059)">
+                <path d="M 2.892,2.816 C 2.892,2.816 -2.892,2.816 -2.892,2.816 -2.892,2.816 -2.892,-2.816 -2.892,-2.816 -2.892,-2.816 2.892,-2.816 2.892,-2.816 2.892,-2.816 2.892,2.816 2.892,2.816 Z" sodipodi:nodetypes="cccc" style="stroke:none;"/>
+            </g>
+            <g fill="#ffffff" fill-opacity="1" id="Fill_57bb01e572e94592b8328b011110f731" inkscape:label="Group 2" opacity="1" transform="matrix(1, 0, 0, 1, 606.491, 188.333)">
+                <path d="M 6.756,0.798 C 6.756,0.798 -6.757,0.798 -6.757,0.798 -7.197,0.798 -7.555,0.442 -7.555,0.001 -7.555,-0.441 -7.197,-0.798 -6.757,-0.798 -6.757,-0.798 6.756,-0.798 6.756,-0.798 7.197,-0.798 7.555,-0.441 7.555,0.001 7.555,0.442 7.197,0.798 6.756,0.798 Z" sodipodi:nodetypes="cccccc" style="stroke:none;"/>
+            </g>
+            <g fill="#ffffff" fill-opacity="1" id="Fill_07d19046ea094360a086caa0863becc5" inkscape:label="Group 1" opacity="1" transform="matrix(1, 0, 0, 1, 606.184, 248.165)">
+                <path d="M 3.194,0 C 3.194,1.764 1.764,3.194 0,3.194 -1.764,3.194 -3.194,1.764 -3.194,0 -3.194,-1.764 -1.764,-3.194 0,-3.194 1.764,-3.194 3.194,-1.764 3.194,0 Z" sodipodi:nodetypes="cccc" style="stroke:none;"/>
+            </g>
+        </g>
+        <g transform="translate(650.698 217.267)">
+            <g transform="rotate(0)">
+                <g transform="scale(1 1)">
+                    <g transform="translate(-650.698 -217.267)">
+                        <g id="Layer_b3bb61d806d24e4badd545fad911ad0a" inkscape:groupmode="layer" inkscape:label="Key/Lock Outlines" opacity="1">
+                            <g fill="#3b0202" fill-opacity="1" id="Fill_f9dfd0ba771b494db1b56121f2eb62e8" inkscape:label="Group 3" opacity="1" transform="matrix(1, 0, 0, 1, 658.036, 217.684)">
+                                <path d="M 0,-10.118 C -5.588,-10.118 -10.118,-5.588 -10.118,0.001 -10.118,5.589 -5.588,10.118 0,10.118 5.589,10.118 10.118,5.589 10.118,0.001 10.118,-5.588 5.589,-10.118 0,-10.118 Z" sodipodi:nodetypes="cccc" style="stroke:none;"/>
+                            </g>
+                            <g fill="#ffffff" fill-opacity="1" id="Fill_4b09d93fb85847af8b76f6bde8799ff9" inkscape:label="Group 2" opacity="1" transform="matrix(1, 0, 0, 1, 663.464, 217.526)">
+                                <path d="M 0.001,-2.055 C -1.135,-2.055 -2.055,-1.135 -2.055,0 -2.055,1.135 -1.135,2.055 0.001,2.055 1.136,2.055 2.056,1.135 2.056,0 2.056,-1.135 1.136,-2.055 0.001,-2.055 Z" sodipodi:nodetypes="cccc" style="stroke:none;"/>
+                            </g>
+                            <g fill="#3b0202" fill-opacity="1" id="Fill_50f598dc5c8248a49df79fce16d54adb" inkscape:label="Group 1" opacity="1" transform="matrix(1, 0, 0, 1, 640.399, 218.036)">
+                                <path d="M 8.388,2.459 C 8.388,2.459 3.36,2.459 3.36,2.459 3.064,2.459 2.791,2.299 2.647,2.041 2.647,2.041 2.524,1.822 2.524,1.822 2.232,1.3 1.497,1.258 1.148,1.743 1.148,1.743 0.877,2.119 0.877,2.119 0.724,2.333 0.477,2.459 0.214,2.459 0.214,2.459 -0.592,2.459 -0.592,2.459 -0.951,2.459 -1.267,2.226 -1.373,1.884 -1.567,1.26 -2.379,1.105 -2.789,1.613 -2.789,1.613 -3.057,1.944 -3.057,1.944 -3.213,2.137 -3.446,2.248 -3.693,2.248 -3.693,2.248 -4.741,2.248 -4.741,2.248 -4.987,2.248 -5.219,2.359 -5.375,2.549 -5.375,2.549 -6.43,3.844 -6.43,3.844 -6.586,4.035 -6.818,4.146 -7.063,4.146 -7.063,4.146 -8.387,4.146 -8.387,4.146 -8.84,4.146 -9.205,3.78 -9.205,3.328 -9.205,3.328 -9.205,-1.629 -9.205,-1.629 -9.205,-1.846 -9.119,-2.054 -8.966,-2.207 -8.966,-2.207 -7.266,-3.907 -7.266,-3.907 -7.113,-4.06 -6.905,-4.146 -6.688,-4.146 -6.688,-4.146 8.388,-4.146 8.388,-4.146 8.839,-4.146 9.205,-3.78 9.205,-3.329 9.205,-3.329 9.205,1.642 9.205,1.642 9.205,2.093 8.839,2.459 8.388,2.459 Z" sodipodi:nodetypes="ccccccccccccccccccccccccc" style="stroke:none;"/>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <animateTransform attributeName="transform" begin="0.000000" calcMode="spline" dur="3.000000" keySplines="0.167000 0.167000 0.833000 0.833000; 0.167000 0.167000 0.833000 0.833000; 0.167000 0.167000 0.833000 0.833000; 0.167000 0.167000 0.833000 0.833000; 0.167000 0.167000 0.833000 0.833000; 0.000000 0.000000 0.000000 0.000000" keyTimes="0.000000; 0.173333; 0.333333; 0.506667; 0.666667; 0.840000; 1" repeatCount="indefinite" type="rotate" values="0; -30; 30; -30; 30; 0; 0"/>
+            </g>
+        </g>
+        <g id="Layer_34ff322fba7a4dfab63a5c0d0116a823" inkscape:groupmode="layer" inkscape:label="Humans/Lock Outlines" opacity="1" transform="matrix(1, 0, 0, 1, 0, 0)">
+            <g fill="#f5c4c4" fill-opacity="1" id="Fill_4874467bced64e138b65a999e6109f7c" inkscape:label="Group 30" opacity="1" transform="matrix(1, 0, 0, 1, 649.863, 471.366)">
+                <path d="M 28.066,0 C 28.066,2.214 15.501,4.009 0.001,4.009 -15.499,4.009 -28.065,2.214 -28.065,0 -28.065,-2.215 -15.499,-4.01 0.001,-4.01 15.501,-4.01 28.066,-2.215 28.066,0 Z" sodipodi:nodetypes="cccc" style="stroke:none;"/>
+            </g>
+            <g fill="#3b0202" fill-opacity="1" id="Fill_cc7633d85b4c45dcb816204bca299fa7" inkscape:label="Group 29" opacity="1" transform="matrix(1, 0, 0, 1, 594.196, 349.975)">
+                <path d="M 24.331,14.701 C 24.331,14.701 -18.121,14.701 -18.121,14.701 -18.121,14.701 -23.916,-11.102 -23.916,-11.102 -24.331,-12.947 -22.928,-14.701 -21.036,-14.701 -21.036,-14.701 12.887,-14.701 12.887,-14.701 15.716,-14.701 18.168,-12.738 18.788,-9.978 18.788,-9.978 24.331,14.701 24.331,14.701 Z" sodipodi:nodetypes="cccccc" style="stroke:none;"/>
+            </g>
+            <g fill="#f5c4c4" fill-opacity="1" id="Fill_280eb26143cd42f99a8264409b7b81d1" inkscape:label="Group 28" opacity="1" transform="matrix(1, 0, 0, 1, 594.456, 350.27)">
+                <path d="M 20.886,12.207 C 20.886,12.207 -15.556,12.207 -15.556,12.207 -15.556,12.207 -20.532,-9.219 -20.532,-9.219 -20.887,-10.751 -19.682,-12.207 -18.059,-12.207 -18.059,-12.207 11.062,-12.207 11.062,-12.207 13.491,-12.207 15.596,-10.578 16.128,-8.285 16.128,-8.285 20.886,12.207 20.886,12.207 Z" sodipodi:nodetypes="cccccc" style="stroke:none;"/>
+            </g>
+            <g fill="#3b0202" fill-opacity="1" id="Fill_70c23df7b8f04c618573ac4810ed2124" inkscape:label="Group 27" opacity="1" transform="matrix(1, 0, 0, 1, 600.995, 366.72)">
+                <path d="M 24.843,2.044 C 24.843,2.044 -24.842,2.044 -24.842,2.044 -24.842,2.044 -24.842,-2.044 -24.842,-2.044 -24.842,-2.044 24.843,-2.044 24.843,-2.044 24.843,-2.044 24.843,2.044 24.843,2.044 Z" sodipodi:nodetypes="cccc" style="stroke:none;"/>
+            </g>
+            <g fill="#3b0202" fill-opacity="1" id="Fill_168175f2580b412687e8e13475007a73" inkscape:label="Group 26" opacity="1" transform="matrix(1, 0, 0, 1, 600.485, 371.555)">
+                <path d="M 40.841,2.712 C 40.841,2.712 -40.841,2.712 -40.841,2.712 -42.339,2.712 -43.552,1.498 -43.552,0 -43.552,-1.498 -42.339,-2.712 -40.841,-2.712 -40.841,-2.712 40.841,-2.712 40.841,-2.712 42.339,-2.712 43.552,-1.498 43.552,0 43.552,1.498 42.339,2.712 40.841,2.712 Z" sodipodi:nodetypes="cccccc" style="stroke:none;"/>
+            </g>
+            <g id="Stroke_626f19682fea4500860176464887c908" inkscape:label="Group 25" opacity="1" stroke="#f5c4c4" stroke-opacity="1" stroke-width="1" transform="matrix(1, 0, 0, 1, 572.96, 417.224)">
+                <path d="M -21.698,44.67 C -21.698,44.67 -4.235,-34.825 -4.235,-34.825 -2.295,-44.587 8.523,-44.67 10.554,-34.938 10.554,-34.938 21.698,44.066 21.698,44.066" sodipodi:nodetypes="cccc" style="fill:none;stroke-dasharray:none;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;"/>
+            </g>
+            <g id="Stroke_28771f144a7740ee9fb168ffa80d48dc" inkscape:label="Group 24" opacity="1" stroke="#f5c4c4" stroke-opacity="1" stroke-width="1" transform="matrix(1, 0, 0, 1, 639.532, 414.917)">
+                <path d="M -21.698,44.249 C -21.698,44.249 -9.488,-34.404 -9.488,-34.404 -7.548,-44.166 3.27,-44.249 5.301,-34.518 5.301,-34.518 21.698,43.646 21.698,43.646" sodipodi:nodetypes="cccc" style="fill:none;stroke-dasharray:none;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;"/>
+            </g>
+            <g fill="#ffa968" fill-opacity="1" id="Fill_caf8044c74074943a3a2852bdd44bc75" inkscape:label="Group 23" opacity="1" transform="matrix(1, 0, 0, 1, 618.92, 317.409)">
+                <path d="M 1.219,6.309 C 1.219,6.309 0.433,4.658 -0.353,4.304 -1.139,3.951 -2.634,3.636 -3.262,2.693 -3.891,1.749 -4.245,-0.059 -4.245,-0.609 -4.245,-1.16 -3.144,-0.374 -2.987,0.098 -2.83,0.57 -2.515,1.16 -2.515,1.16 -2.515,1.16 -2.201,-3.282 -2.554,-4.108 -2.908,-4.933 -3.302,-5.209 -3.183,-5.758 -3.065,-6.309 -2.358,-5.797 -1.965,-5.444 -1.572,-5.09 -0.668,-3.479 -0.471,-3.4 -0.275,-3.322 0.237,-3.518 0.905,-3.125 1.573,-2.732 2.201,-2.575 2.673,-2.221 3.145,-1.867 3.263,-1.081 3.381,-0.531 3.498,0.02 3.381,1.67 3.42,2.103 3.459,2.536 4.245,3.99 4.245,3.99 4.245,3.99 1.219,6.309 1.219,6.309 Z" sodipodi:nodetypes="ccccccccccccccc" style="stroke:none;"/>
+            </g>
+            <g fill="#00183b" fill-opacity="1" id="Fill_fd85e3761e7e4cb38399ddd0903602e4" inkscape:label="Group 22" opacity="1" transform="matrix(1, 0, 0, 1, 632.068, 331.284)">
+                <path d="M 9.611,11.733 C 9.611,11.733 -5.012,4.541 -7.724,1.474 -10.437,-1.591 -13.974,-4.894 -11.852,-8.314 -9.729,-11.734 -6.898,-10.79 -5.836,-9.965 -4.775,-9.139 -0.176,-3.596 1.474,-2.888 3.126,-2.181 9.493,-3.596 11.734,-0.176 13.974,3.244 12.206,11.497 9.611,11.733 Z" sodipodi:nodetypes="cccccc" style="stroke:none;"/>
+            </g>
+            <g fill="#ffa968" fill-opacity="1" id="Fill_7919926effec4f65916d858f4819f8e5" inkscape:label="Group 21" opacity="1" transform="matrix(1, 0, 0, 1, 600.463, 359.257)">
+                <path d="M 7.333,1.072 C 7.333,1.072 3.961,-0.758 2.709,-2.01 1.456,-3.262 0.686,-4.611 -1.529,-5.092 -3.745,-5.574 -5.864,-4.515 -5.864,-3.938 -5.864,-3.36 -3.745,-3.648 -3.745,-3.648 -3.745,-3.648 -2.926,-3.527 -2.926,-3.527 -2.926,-3.527 -5.888,-3.239 -6.249,-2.733 -6.61,-2.227 -6.755,-1.721 -6.755,-1.721 -6.755,-1.721 -7.044,-1.144 -7.044,-0.638 -7.044,-0.133 -7.333,0.085 -6.827,0.518 -6.321,0.952 -5.671,-0.204 -5.671,-0.204 -5.671,-0.204 -3.286,2.253 -1.625,2.758 0.037,3.263 0.758,2.901 0.758,2.901 0.758,2.901 1.843,4.419 4.443,4.997 7.044,5.574 7.333,1.072 7.333,1.072 Z" sodipodi:nodetypes="cccccccccccccc" style="stroke:none;"/>
+            </g>
+            <g fill="#f46e36" fill-opacity="1" id="Fill_1695bb2562354c6f9f0a92ca552a0056" inkscape:label="Group 20" opacity="1" transform="matrix(1, 0, 0, 1, 643.33, 349.739)">
+                <path d="M -10.456,-21.148 C -10.456,-21.148 -14.387,-18.161 -15.644,-16.117 -16.902,-14.073 -12.657,14.701 -12.657,14.701 -12.657,14.701 -11.714,26.65 -11.714,26.65 -11.714,26.65 15.644,25.549 15.644,25.549 15.644,25.549 16.902,-12.501 11.398,-19.576 5.896,-26.651 -10.456,-21.148 -10.456,-21.148 Z" sodipodi:nodetypes="cccccc" style="stroke:none;"/>
+            </g>
+            <g fill="#ffa968" fill-opacity="1" id="Fill_f9c454b3995446eda9e427636ede0d66" inkscape:label="Group 19" opacity="1" transform="matrix(1, 0, 0, 1, 637.414, 313.494)">
+                <path d="M -3.043,-11.036 C -3.043,-11.036 -6.24,-10.314 -6.344,-5.363 -6.446,-0.413 -7.787,0.31 -7.787,0.31 -7.787,0.31 -6.962,5.26 -5.725,6.498 -4.487,7.735 -1.496,7.632 -1.496,7.632 -1.496,7.632 -0.773,11.036 -0.773,11.036 -0.773,11.036 7.787,11.036 7.787,11.036 7.787,11.036 6.858,0.825 6.858,0.825 6.858,0.825 -0.052,-10.726 -3.043,-11.036 Z" sodipodi:nodetypes="cccccccc" style="stroke:none;"/>
+            </g>
+            <g fill="#00183b" fill-opacity="1" id="Fill_7603deea5bf84d1896cf4e62eee305d5" inkscape:label="Group 18" opacity="1" transform="matrix(1, 0, 0, 1, 644.274, 326.981)">
+                <path d="M -10.26,-1.298 C -10.26,-1.298 1.533,-7.075 5.424,-6.486 9.315,-5.897 8.254,-2.477 8.254,-2.477 8.254,-2.477 13.325,-2.359 12.853,2.358 12.382,7.075 -1.415,0.943 -5.66,1.415 -9.906,1.887 -11.91,3.065 -12.618,1.887 -13.325,0.707 -11.675,-0.472 -10.26,-1.298 Z" sodipodi:nodetypes="cccccc" style="stroke:none;"/>
+            </g>
+            <g fill="#00183b" fill-opacity="1" id="Fill_7a03d6bb7b47487998c1a6585616a7ec" inkscape:label="Group 17" opacity="1" transform="matrix(1, 0, 0, 1, 640.795, 308.761)">
+                <path d="M -7.134,-3.636 C -7.134,-3.636 -7.291,-2.614 -6.662,-0.491 -5.995,1.76 -4.539,2.181 -4.539,2.181 -4.539,2.181 -5.247,4.717 -4.599,5.13 -3.95,5.543 -3.714,2.713 -2.712,2.476 -1.709,2.241 -0.943,3.891 -1.238,5.838 -1.532,7.783 -2.535,8.078 -3.066,8.255 -3.596,8.431 -1.062,11.556 3.773,10.495 8.607,9.434 11.615,0.354 8.372,-3.596 8.372,-3.596 9.258,-6.662 3.951,-8.608 -1.356,-10.554 -6.781,-11.556 -9.198,-10.554 -11.616,-9.551 -9.256,-7.429 -9.256,-7.429 -9.256,-7.429 -11,-7.306 -11.203,-6.309 -11.458,-5.051 -9.964,-3.596 -7.134,-3.636 Z" sodipodi:nodetypes="ccccccccccccc" style="stroke:none;"/>
+            </g>
+            <g fill="#00183b" fill-opacity="1" id="Fill_000de88af8fa496990e3cefc66e9f485" inkscape:label="Group 16" opacity="1" transform="matrix(1, 0, 0, 1, 619.117, 352.176)">
+                <path d="M 8.569,-18.553 C 8.569,-18.553 12.342,-16.824 14.544,-7.547 16.745,1.729 12.028,12.579 8.569,15.566 5.11,18.553 -9.827,16.51 -13.285,13.679 -16.744,10.848 -13.758,7.704 -12.029,7.389 -10.299,7.075 -0.237,8.018 -0.237,8.018 -0.237,8.018 -0.078,6.446 0.865,6.132 1.808,5.817 3.381,3.773 4.638,-2.516 5.896,-8.805 4.953,-12.893 8.569,-18.553 Z" sodipodi:nodetypes="cccccccc" style="stroke:none;"/>
+            </g>
+            <g fill="#00183b" fill-opacity="1" id="Fill_8ac3f3395db74bff91dc8ddf63832091" inkscape:label="Group 15" opacity="1" transform="matrix(1, 0, 0, 1, 645.374, 376.39)">
+                <path d="M -13.758,0 C -13.758,0 -13.444,2.987 -13.444,2.987 -13.444,2.987 13.758,2.83 13.758,2.83 13.758,2.83 13.599,-1.101 13.599,-1.101 13.599,-1.101 6.053,-2.987 -13.758,0 Z" sodipodi:nodetypes="cccc" style="stroke:none;"/>
+            </g>
+            <g fill="#00183b" fill-opacity="1" id="Fill_00c6eecec00a46f7b96052ebb0e96d2a" inkscape:label="Group 14" opacity="1" transform="matrix(1, 0, 0, 1, 651.275, 419.832)">
+                <path d="M -19.344,-40.455 C -19.344,-40.455 -17.773,-26.305 -17.773,-26.305 -17.773,-26.305 -12.616,41.91 -12.616,41.91 -12.616,41.91 -0.195,41.305 -0.195,41.305 -0.195,41.305 -3.582,-27.287 -3.582,-27.287 -3.582,-27.287 -2.521,-28.349 -2.521,-28.349 -2.521,-28.349 0.308,4.669 0.308,4.669 0.308,4.669 7.681,41.305 7.681,41.305 7.681,41.305 19.344,40.245 19.344,40.245 19.344,40.245 12.808,2.782 12.808,2.782 12.808,2.782 7.62,-41.91 7.62,-41.91 7.62,-41.91 -19.344,-40.455 -19.344,-40.455 Z" sodipodi:nodetypes="ccccccccccc" style="stroke:none;"/>
+            </g>
+            <g fill="#00183b" fill-opacity="1" id="Fill_8e42d82878554f6cb6bb3079a82ee7d7" inkscape:label="Group 13" opacity="1" transform="matrix(1, 0, 0, 1, 640.932, 466.716)">
+                <path d="M -0.118,-6.073 C -0.118,-6.073 0.118,-1.945 0.118,-1.945 0.118,-1.945 -8.844,3.832 -9.198,4.777 -9.552,5.72 -1.768,5.837 0.236,5.72 2.24,5.602 6.957,6.309 9.552,5.602 9.552,5.602 8.019,-6.309 8.019,-6.309 8.019,-6.309 -0.118,-6.073 -0.118,-6.073 Z" sodipodi:nodetypes="cccccc" style="stroke:none;"/>
+            </g>
+            <g fill="#00183b" fill-opacity="1" id="Fill_ac70c6053ee849feb26eaa226a2c2788" inkscape:label="Group 12" opacity="1" transform="matrix(1, 0, 0, 1, 661.943, 464.538)">
+                <path d="M -1.347,-5.814 C -1.347,-5.814 -0.679,-1.734 -0.679,-1.734 -0.679,-1.734 -8.987,4.952 -9.24,5.927 -9.493,6.902 -1.74,6.204 0.241,5.876 2.222,5.549 6.988,5.758 9.494,4.783 9.494,4.783 6.72,-6.901 6.72,-6.901 6.72,-6.901 -1.347,-5.814 -1.347,-5.814 Z" sodipodi:nodetypes="cccccc" style="stroke:none;"/>
+            </g>
+            <g fill="#f5c4c4" fill-opacity="1" id="Fill_3ffa3347b0494f929ca444f181861f7f" inkscape:label="Group 11" opacity="1" transform="matrix(1, 0, 0, 1, 534.882, 471.669)">
+                <path d="M 27.037,0 C 27.037,2.133 14.932,3.862 -0.001,3.862 -14.934,3.862 -27.038,2.133 -27.038,0 -27.038,-2.134 -14.934,-3.862 -0.001,-3.862 14.932,-3.862 27.037,-2.134 27.037,0 Z" sodipodi:nodetypes="cccc" style="stroke:none;"/>
+            </g>
+            <g fill="#ffa968" fill-opacity="1" id="Fill_8c52d3b0305a4c729a78ad1db82ab9b0" inkscape:label="Group 10" opacity="1" transform="matrix(1, 0, 0, 1, 535.755, 314.754)">
+                <path d="M 2.932,-10.632 C 2.932,-10.632 6.012,-9.937 6.112,-5.167 6.211,-0.398 7.502,0.299 7.502,0.299 7.502,0.299 6.707,5.067 5.515,6.26 4.323,7.452 1.442,7.353 1.442,7.353 1.442,7.353 0.745,10.632 0.745,10.632 0.745,10.632 -7.502,10.632 -7.502,10.632 -7.502,10.632 -6.607,0.795 -6.607,0.795 -6.607,0.795 0.05,-10.334 2.932,-10.632 Z" sodipodi:nodetypes="cccccccc" style="stroke:none;"/>
+            </g>
+            <g fill="#ffa968" fill-opacity="1" id="Fill_9c07e7aa8e3e44dba9f891ce18f62af9" inkscape:label="Group 9" opacity="1" transform="matrix(1, 0, 0, 1, 537.652, 438.513)">
+                <path d="M -4.273,-29.027 C -4.273,-29.027 -5.45,-11.127 -0.89,28.903 -0.89,28.903 4.953,29.027 4.953,29.027 4.953,29.027 5.45,-26.293 5.45,-26.293 5.45,-26.293 -4.273,-29.027 -4.273,-29.027 Z" sodipodi:nodetypes="cccc" style="stroke:none;"/>
+            </g>
+            <g fill="#ffa968" fill-opacity="1" id="Fill_061109473366440f9ca9695d9baa389a" inkscape:label="Group 8" opacity="1" transform="matrix(1, 0, 0, 1, 527.331, 436.356)">
+                <path d="M -1.664,-29.174 C -1.664,-29.174 -6.148,-9.53 -6.815,27.28 -6.815,27.28 -1.893,29.174 -1.893,29.174 -1.893,29.174 6.815,-25.531 6.815,-25.531 6.815,-25.531 -1.664,-29.174 -1.664,-29.174 Z" sodipodi:nodetypes="cccc" style="stroke:none;"/>
+            </g>
+            <g fill="#f46e36" fill-opacity="1" id="Fill_18dcaf93e46344609ab0d80408333d24" inkscape:label="Group 7" opacity="1" transform="matrix(1, 0, 0, 1, 532.015, 343.823)">
+                <path d="M 12.873,7.606 C 12.455,14.332 11.719,19.767 11.719,19.767 11.719,19.767 9.847,19.749 9.847,19.749 9.847,19.749 -9.075,19.613 -9.075,19.613 -9.075,19.613 -13.482,-7.826 -13.056,-12.952 -12.602,-18.295 -4.876,-19.767 -4.876,-19.767 -4.876,-19.767 5.911,-19.64 9.556,-17.15 13.428,-14.514 13.482,-2.109 12.873,7.606 Z" sodipodi:nodetypes="ccccccc" style="stroke:none;"/>
+            </g>
+            <g fill="#00183b" fill-opacity="1" id="Fill_fcbcf0086812468d92a338e80abd6559" inkscape:label="Group 6" opacity="1" transform="matrix(1, 0, 0, 1, 534.774, 390.76)">
+                <path d="M 9.069,-27.776 C 9.069,-27.776 16.34,-12.174 8.652,27.776 8.652,27.776 -12.25,27.776 -12.25,27.776 -12.25,27.776 -16.34,3.01 -16.114,-9.032 -15.886,-21.074 -11.834,-27.322 -11.834,-27.322 -11.834,-27.322 9.069,-27.776 9.069,-27.776 Z" sodipodi:nodetypes="ccccc" style="stroke:none;"/>
+            </g>
+            <g fill="#00183b" fill-opacity="1" id="Fill_fa1cc50da028433da83dbaa1087deb26" inkscape:label="Group 5" opacity="1" transform="matrix(1, 0, 0, 1, 544.065, 469.84)">
+                <path d="M -7.552,-3.046 C -7.552,-3.046 -8.609,1.927 -8.173,2.486 -7.739,3.046 -1.584,3.046 0.094,2.673 1.772,2.3 4.383,2.983 6.496,1.927 8.609,0.87 -1.584,-2.734 -1.584,-2.734 -1.584,-2.734 -7.552,-3.046 -7.552,-3.046 Z" sodipodi:nodetypes="ccccc" style="stroke:none;"/>
+            </g>
+            <g fill="#00183b" fill-opacity="1" id="Fill_653ab0d204e04517a2d1775473775ed0" inkscape:label="Group 4" opacity="1" transform="matrix(1, 0, 0, 1, 525.379, 467.647)">
+                <path d="M -5.072,-5.193 C -5.072,-5.193 -8.071,-1.089 -7.902,-0.4 -7.734,0.288 -2.12,2.807 -0.436,3.154 1.248,3.499 3.35,5.192 5.711,5.092 8.072,4.994 0.245,-2.466 0.245,-2.466 0.245,-2.466 -5.072,-5.193 -5.072,-5.193 Z" sodipodi:nodetypes="ccccc" style="stroke:none;"/>
+            </g>
+            <g fill="#ffa968" fill-opacity="1" id="Fill_6f135ecae8694720a10c5be5a72410a0" inkscape:label="Group 3" opacity="1" transform="matrix(1, 0, 0, 1, 571.691, 367.339)">
+                <path d="M -7.327,1.932 C -7.327,1.932 -4.942,2.84 -3.351,2.84 -1.761,2.84 2.443,1.135 3.919,1.135 5.396,1.135 6.646,1.818 6.986,1.25 7.327,0.682 4.147,-0.908 3.578,-1.022 3.011,-1.135 1.648,-2.159 1.193,-2.5 0.738,-2.84 -4.828,-2.271 -4.828,-2.271 -4.828,-2.271 -7.327,1.932 -7.327,1.932 Z" sodipodi:nodetypes="ccccccc" style="stroke:none;"/>
+            </g>
+            <g fill="#f46e36" fill-opacity="1" id="Fill_cf9476583f634c9a94f588050880a199" inkscape:label="Group 2" opacity="1" transform="matrix(1, 0, 0, 1, 552.776, 348.654)">
+                <path d="M -12.723,-21.189 C -12.723,-21.189 -15.223,-17.782 -14.995,-9.148 -14.769,-0.514 -12.495,12.665 -9.542,16.981 -6.588,21.298 11.815,21.98 11.815,21.98 11.815,21.98 15.223,15.845 15.223,15.845 15.223,15.845 -3.635,10.165 -3.635,10.165 -3.635,10.165 -6.97,-17.218 -9.087,-19.599 -11.205,-21.98 -12.723,-21.189 -12.723,-21.189 Z" sodipodi:nodetypes="ccccccc" style="stroke:none;"/>
+            </g>
+            <g fill="#00183b" fill-opacity="1" id="Fill_7e2e36d6ca1a4db4825d45764806bfc4" inkscape:label="Group 1" opacity="1" transform="matrix(1, 0, 0, 1, 531.419, 317.353)">
+                <path d="M 6.475,-9.429 C 6.475,-9.429 6.929,-7.952 5.112,-5.794 5.112,-5.794 5.566,-4.431 4.771,-3.294 3.976,-2.158 4.884,-5.453 2.498,-5.339 0.113,-5.226 0.909,-1.249 1.59,-0.568 2.272,0.114 3.521,0.115 3.521,0.115 3.521,0.115 4.998,6.929 3.294,12.951 1.59,18.971 -7.953,17.949 -11.133,13.518 -14.314,9.089 -11.02,1.136 -9.316,-3.863 -7.612,-8.861 -7.499,-16.018 -0.682,-17.494 6.134,-18.972 10.451,-18.063 12.382,-13.86 14.314,-9.657 12.496,-7.612 11.814,-7.157 11.132,-6.702 8.974,-8.861 8.974,-8.861 8.974,-8.861 6.475,-9.429 6.475,-9.429 Z" sodipodi:nodetypes="ccccccccccccc" style="stroke:none;"/>
+            </g>
+        </g>
+    </g>
+</svg>
